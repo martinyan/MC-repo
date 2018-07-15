@@ -13,7 +13,7 @@
 	ContainerHeight = '778'
 	ContainerWidth = '2206'
 	Flags = '2'
-	Height = '764'
+	Height = '760'
 	Left = '0'
 	MinX = '-1'
 	MinY = '-1'
@@ -74,9 +74,9 @@
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '43289'
+	FinishDate2Id = '42916'
 	FinishDate2Name = ''
-	FinishDateId = '43289'
+	FinishDateId = '43293'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '10'
@@ -108,7 +108,7 @@
 	ShowPhantomBars = '1'
 	ShowRealOpen = '0'
 	ShowWick = '0'
-	StartDateId = '43101'
+	StartDateId = '42887'
 	StartDateName = ''
 	StrikePrice = ''
 	Symbol = 'HHSI'
@@ -130,8 +130,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '28823,0555555556'
-	Minimum = '27661,9444444444'
+	Maximum = '25831,2777777778'
+	Minimum = '25425,7222222222'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -1334,7 +1334,7 @@
 
 [Wsp\Window_0\ChartManager\Strategy]
 	OptResultsPresent = '0'
-	SignalObjectCount = '3'
+	SignalObjectCount = '4'
 
 [Wsp\Window_0\ChartManager\Strategy\AlertObject]
 	AlertEnable = '0'
@@ -1819,7 +1819,7 @@
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_2]
 	IdName = 's_ichimoku'
-	Status = '1'
+	Status = '0'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper]
 	CalcRTAsHistory = '1'
@@ -1877,6 +1877,14 @@
 	Stop2 = '9'
 	Value = '9'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\InputHelper\Input_begin_time]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '915'
+	Start2 = '915'
+	Step2 = '1'
+	Stop2 = '915'
+	Value = '0915'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\InputHelper\Input_control_FASTLEN]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '9'
@@ -1884,6 +1892,14 @@
 	Step2 = '1'
 	Stop2 = '9'
 	Value = '9'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\InputHelper\Input_end_time]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1630'
+	Start2 = '1630'
+	Step2 = '1'
+	Stop2 = '1630'
+	Value = '1630'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Entry\ArrowProps]
 	Color = '16711680'
@@ -2022,6 +2038,205 @@
 	Width = '0'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3]
+	IdName = 's_Z_score_Z_exit'
+	Status = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper]
+	CalcRTAsHistory = '1'
+	GordonLamCalc = '0'
+	IOGEnabled = '0'
+	IOGTypeEntry = '1'
+	IOGTypeExit = '1'
+	TimesPerBar = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\InputHelper\Input_LX_Score]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1.0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\InputHelper\Input_Price]
+	Value = 'close'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\InputHelper\Input_SX_Score]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '-1'
+	Start2 = '-1'
+	Step2 = '1'
+	Stop2 = '-1'
+	Value = '-1.0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\InputHelper\Input_Z_len]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '30'
+	Start2 = '30'
+	Step2 = '1'
+	Stop2 = '30'
+	Value = '30'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\InputHelper\Input_begin_time]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '915'
+	Start2 = '915'
+	Step2 = '1'
+	Stop2 = '915'
+	Value = '0915'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\InputHelper\Input_end_time]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1630'
+	Start2 = '1630'
+	Step2 = '1'
+	Stop2 = '1630'
+	Value = '1630'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\ArrowProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\TickProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\ArrowProps]
+	Color = '16777215'
+	OrderType = '258'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\TickProps]
+	Color = '16777215'
+	OrderType = '258'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\ArrowProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\TickProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\ArrowProps]
+	Color = '16777215'
+	OrderType = '514'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\TickProps]
+	Color = '16777215'
+	OrderType = '514'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\UnprofitLineProps]
 	OrderType = '257'
 	ProfitColor = '0'
 	Style = '2'
@@ -2258,7 +2473,7 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Loader]
 	CurAccount = 'DU1076268'
 	CurProfile = ''
-	IsConnected = 'True'
+	IsConnected = 'False'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings]
 	Count = '1'
@@ -2269,13 +2484,10 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second]
 	Account = 'DU1076268'
 	QTY = '1'
-	TIF = '1'
+	TIF = '-1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
-	Ticks = '599266080000000000'
-
-[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window\AtmAutoApplyCtx\PropertyState]
-	Count = '0'
+	Ticks = '636670219124720000'
 
 [Wsp\Window_0\ChartManager\VolumeScale]
 	VolumeBarColor = '8421504'

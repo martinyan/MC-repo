@@ -13,7 +13,7 @@
 	ContainerHeight = '778'
 	ContainerWidth = '2206'
 	Flags = '2'
-	Height = '748'
+	Height = '744'
 	Left = '0'
 	MinX = '-1'
 	MinY = '-1'
@@ -74,9 +74,9 @@
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '43303'
+	FinishDate2Id = '43307'
 	FinishDate2Name = ''
-	FinishDateId = '43303'
+	FinishDateId = '43307'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '10'
@@ -130,8 +130,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '29081,7222222222'
-	Minimum = '27707,2777777778'
+	Maximum = '29170,2222222222'
+	Minimum = '28025,7777777778'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -1084,8 +1084,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '29081,7222222222'
-	Minimum = '27707,2777777778'
+	Maximum = '29170,2222222222'
+	Minimum = '28025,7777777778'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -1240,8 +1240,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '5,22920357914579'
-	Minimum = '-5,67630034756965'
+	Maximum = '5,27780868946387'
+	Minimum = '-2,5344665387458'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -2721,7 +2721,7 @@
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_5]
 	IdName = 'sa_Stopa20Loss'
-	Status = '0'
+	Status = '1'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_5\SignalHelper]
 	CalcRTAsHistory = '1'
@@ -2891,7 +2891,7 @@
 	Confirm = 'False'
 	NeedActivateAT = 'False'
 	Profile = 'Interactive Brokers'
-	StrategyName = 'HKFEDayEndCloseAll; Z_score_modified0722'
+	StrategyName = 'HKFEDayEndCloseAll; Z_score_modified0722; Stop Loss'
 	SymbolName = 'HHSI - 5 Minutes - Interactive Brokers'
 
 [Wsp\Window_0\ChartManager\Strategy\StrategyHelper\OptimizerProperties\Algorithm_0]
@@ -3115,7 +3115,7 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Loader]
 	CurAccount = 'DU1076268'
 	CurProfile = ''
-	IsConnected = 'False'
+	IsConnected = 'True'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings]
 	Count = '1'
@@ -3129,7 +3129,10 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
-	Ticks = '636678736974450000'
+	Ticks = '599266080000000000'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window\AtmAutoApplyCtx\PropertyState]
+	Count = '0'
 
 [Wsp\Window_0\ChartManager\VolumeScale]
 	VolumeBarColor = '8421504'

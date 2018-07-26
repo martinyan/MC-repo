@@ -74,9 +74,9 @@
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '43303'
+	FinishDate2Id = '43307'
 	FinishDate2Name = ''
-	FinishDateId = '43303'
+	FinishDateId = '43307'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '10'
@@ -130,8 +130,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '28805'
-	Minimum = '28085'
+	Maximum = '29171,4444444444'
+	Minimum = '28002,5555555556'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -1837,7 +1837,7 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Loader]
 	CurAccount = 'DU1076268'
 	CurProfile = ''
-	IsConnected = 'False'
+	IsConnected = 'True'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings]
 	Count = '1'
@@ -1851,7 +1851,10 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
-	Ticks = '636678736978460000'
+	Ticks = '599266080000000000'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window\AtmAutoApplyCtx\PropertyState]
+	Count = '0'
 
 [Wsp\Window_0\ChartManager\VolumeScale]
 	VolumeBarColor = '8421504'

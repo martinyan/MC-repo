@@ -1,0 +1,3011 @@
+
+[Wsp]
+	(C2526AC1-535C-4a67-92B5-101E53EA9E4B) = '{0}'
+	ActiveIndex = '0'
+	MaximizedFlag = '1911'
+	Version = '1'
+	WindowCount = '1'
+
+[Wsp\DetachedWindows]
+	WindowCount = '0'
+
+[Wsp\Window_0]
+	ContainerHeight = '285'
+	ContainerWidth = '1110'
+	Flags = '2'
+	Height = '665'
+	Left = '0'
+	MinX = '-1'
+	MinY = '-1'
+	State = '3'
+	Top = '0'
+	ViewType = '0'
+	Width = '915'
+
+[Wsp\Window_0\ChartManager]
+	ChartCount = '1'
+	OFFSeriesCount = '0'
+
+[Wsp\Window_0\ChartManager\Background]
+	BackgroundColor = '0'
+
+[Wsp\Window_0\ChartManager\CaptionShow]
+	ShowCaption = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0]
+	LSeriesNum = '0'
+	PencentHeight = '1'
+	RSeriesNum = '0'
+	SeriesCount = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0]
+	DataNumber = '0'
+	DrawingsCount = '0'
+	ResolutionLinkId = '0'
+	ResolutionWsGlobal = '0'
+	SeriesType = '1'
+	SymbolLinkId = '0'
+	SymbolWsGlobal = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\DataSeries]
+	MergeDataSources = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\DataSeries\Request]
+	AnchorFinishDate = '0'
+	BackTypeId = '275'
+	BackTypeName = 'Bars Back'
+	BreakOnSession = '1'
+	BuildDayFromMinutes = '0'
+	CallPut = '0'
+	CapacityId = '600'
+	CapacityName = ''
+	Category = '0'
+	CategoryFilter = '254'
+	CategoryFilterName = 'All Instruments'
+	ChartTypeId = '0'
+	ChartTypeName = 'Regular'
+	CumulativeDeltaChartType = '2'
+	CustomResolutionsInfo = '0;8;Regular;1;8;'
+	CustomResolutionsParams = ''
+	DataFeed = 'Interactive Brokers'
+	DeltaType = '1'
+	Description = 'HKD NOV18 HSI Futures HSIX8 MULT:50'
+	Exchange = 'HKFE'
+	ExpirationDate = '0'
+	FieldId = '201'
+	FieldName = 'Trade'
+	FinishDate2Id = '43400'
+	FinishDate2Name = ''
+	FinishDateId = '43400'
+	FinishDateName = ''
+	FootPrintChartType = '0'
+	KagiReversal = '10'
+	KagiReversalPercent = '1'
+	KagiReversalType = '0'
+	LineBreakCount = '3'
+	Minor = '1'
+	PFigureBasis = '1'
+	PFigureBoxSize = '10'
+	PFigureReversal = '3'
+	PriceScale = '101'
+	RangeId = '0'
+	RangeName = 'BACK'
+	RealTimeCategory = '0'
+	RealTimeDataFeed = 'Interactive Brokers'
+	RealTimeExchange = 'HKFE'
+	RealTimeSymbol = 'HSIX8'
+	RenkoBasis = '0'
+	RenkoBoxSize = '10'
+	RenkoBoxSizeType = '0'
+	RequestOffline = '0'
+	ResolutionId = '2'
+	ResolutionName = 'Minute'
+	ResolutionSizeId = '5'
+	ResolutionSizeName = ''
+	SessionsId = '0'
+	SessionsName = 'Default'
+	ShowDelta = '0'
+	ShowPercent = '0'
+	ShowPhantomBars = '1'
+	ShowRealOpen = '0'
+	ShowWick = '0'
+	StartDateId = '43101'
+	StartDateName = ''
+	StrikePrice = ''
+	Symbol = 'HSIX8'
+	TPOBaseOnResolution = '0'
+	TPOBlockSize = '30'
+	TPOBlockSizeResolution = '2'
+	TPOProfileBuildFromRange = '0'
+	TPOProfileBuildFromTime = '28800'
+	TPOResolution = '4'
+	TPOResolutionSize = '1'
+	TimeZoneId = '2'
+	TimeZoneName = 'Exchange'
+	Version = '2'
+	VolumeType = '249'
+	VolumeTypeName = 'Trade Volume'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\IntervalObject]
+	AxisType = '0'
+	Center = '0'
+	CustomNullsCount = '-1'
+	CustomNullsCountEnable = 'False'
+	Fixed Label Number = '10'
+	Fixed Step Size = '0,01'
+	IncludeIndicator = 'True'
+	Label Increment Mode = '1'
+	ManualMode = '0'
+	MarginBottom = '5'
+	MarginTop = '5'
+	Maximum = '25049,6666666667'
+	Minimum = '24496,3333333333'
+	MovementSize.Long = '1'
+	MovementSize.Metric = 'False'
+	MovementSize.Price = '5'
+	OverlayDataSeries = 'False'
+	PriceRange.Above = '1,79769313486232E+308'
+	PriceRange.Below = '1,79769313486232E+308'
+	ScaleType = '0'
+	UseMargins = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\LabelProcessingObject]
+	AutoMode = '1'
+	EnableProcessing = '0'
+	PriceScaleType = '101'
+	SelectedId = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\LabelProcessingObject\Item 0]
+	Suffix = 'x'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\LabelProcessingObject\Item 1]
+	Suffix = 'c'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\LabelProcessingObject\Item 2]
+	Suffix = 'k'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\LabelProcessingObject\Item 3]
+	Suffix = 'm'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\LabelProcessingObject\Item 4]
+	Suffix = 'b'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler]
+	ColorOnly = '0'
+	DisplayAsPercentage = '0'
+	ImbalanceBidAsk = '0'
+	ImbalanceCandle = '1'
+	ImbalanceColorizing = '0'
+	ImbalanceMinDif = '0'
+	ImbalancePercentage = '200'
+	POC = '0'
+	PriceMarker = '1'
+	ShowCSFrame = '0'
+	ShowImbalanceArrow = '1'
+	ShowInvisiblePriceLevels = '0'
+	Show_X_as_I = '0'
+	UseStaticFontSize = '0'
+	VolumeDeltaPrintType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle]
+	Gradient = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line0]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line1]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line10]
+	Color = '255'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line100]
+	Color = '8421504'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line101]
+	Color = '12632256'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line102]
+	Color = '255'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line103]
+	Color = '16761087'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line104]
+	Color = '16711680'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line105]
+	Color = '16760832'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line106]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line107]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line108]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line109]
+	Color = '255'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line11]
+	Color = '10066329'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line110]
+	Color = '16761087'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line111]
+	Color = '16711680'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line112]
+	Color = '16760832'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line113]
+	Color = '8421504'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line114]
+	Color = '12632256'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line115]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line116]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line117]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line118]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line119]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line12]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line120]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line121]
+	Color = '0'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line122]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line123]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line124]
+	Color = '0'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line125]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line126]
+	Color = '32768'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line127]
+	Color = '255'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line128]
+	Color = '32768'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line129]
+	Color = '255'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line13]
+	Color = '16633700'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line130]
+	Color = '32768'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line131]
+	Color = '255'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line132]
+	Color = '32768'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line133]
+	Color = '255'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line134]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line135]
+	Color = '16711680'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line136]
+	Color = '10066329'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line137]
+	Color = '10066329'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line138]
+	Color = '2124031'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line139]
+	Color = '0'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line14]
+	Color = '255'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line140]
+	Color = '10066329'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line141]
+	Color = '10066329'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line142]
+	Color = '2124031'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line143]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line144]
+	Color = '16776960'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line145]
+	Color = '16776960'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line146]
+	Color = '65535'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line147]
+	Color = '16776960'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line148]
+	Color = '65535'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line149]
+	Color = '65535'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line15]
+	Color = '16710844'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line150]
+	Color = '255'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line151]
+	Color = '5784859'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line152]
+	Color = '2137932321'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line153]
+	Color = '0'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line154]
+	Color = '0'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line155]
+	Color = '6908265'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line156]
+	Color = '2154391913'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line157]
+	Color = '6908265'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line16]
+	Color = '8421631'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line17]
+	Color = '7451452'
+	Enabled = '0'
+	Style = '74240'
+	ValueType = '8'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line18]
+	Color = '8421631'
+	Enabled = '0'
+	Style = '74240'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line19]
+	Color = '11064963'
+	Enabled = '0'
+	Style = '74240'
+	ValueType = '8'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line2]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line20]
+	Color = '12171775'
+	Enabled = '0'
+	Style = '74240'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line21]
+	Color = '7778383'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line22]
+	Color = '10254023'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line23]
+	Color = '10668423'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line24]
+	Color = '12164567'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line25]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line26]
+	Color = '12623485'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line27]
+	Color = '10551106'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line28]
+	Color = '13678493'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line29]
+	Color = '12948850'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line3]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line30]
+	Color = '8421631'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line31]
+	Color = '14599344'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line32]
+	Color = '8034025'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line33]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line34]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line35]
+	Color = '255'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line36]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line37]
+	Color = '54528'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line38]
+	Color = '43776'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line39]
+	Color = '33024'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line4]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line40]
+	Color = '255'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line41]
+	Color = '213'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line42]
+	Color = '171'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line43]
+	Color = '129'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line44]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line45]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line46]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line47]
+	Color = '255'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line48]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line49]
+	Color = '54528'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line5]
+	Color = '255'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line50]
+	Color = '43776'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line51]
+	Color = '33024'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line52]
+	Color = '255'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line53]
+	Color = '213'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line54]
+	Color = '171'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line55]
+	Color = '129'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line56]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line57]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line58]
+	Color = '10066329'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line59]
+	Color = '255'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line6]
+	Color = '10066329'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line60]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line61]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line62]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line63]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line64]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line65]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line66]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line67]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line68]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line69]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line7]
+	Color = '65280'
+	Enabled = '0'
+	Style = '73984'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line70]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line71]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line72]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line73]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line74]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line75]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line76]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line77]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line78]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line79]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line8]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line80]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line81]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line82]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line83]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line84]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line85]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line86]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line87]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line88]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line89]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line9]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line90]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line91]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line92]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line93]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line94]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line95]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line96]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line97]
+	Color = '16777215'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line98]
+	Color = '255'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\BarStyle\Line99]
+	Color = '65280'
+	Enabled = '0'
+	Style = '0'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\SymbolType]
+	ChartType = '3'
+	SelectedBarTypeByChart = '4294967295:5 3:3 2147483647:5 '
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Styler\TPOOptions]
+	TPO_BARS_FRAME_ACTIVE = 'True'
+	TPO_BARS_WIDTH = '80'
+	TPO_BLOCKS_CAS_NAME = 'Default'
+	TPO_BLOCKS_COL_OPEN_MARK = 'False'
+	TPO_BLOCKS_FRAME_ACTIVE = 'True'
+	TPO_BLOCKS_IN_OWN_COLUMNS = 'False'
+	TPO_BLOCKS_USE_CAS = 'True'
+	TPO_CLOSE_ACTIVE = 'True'
+	TPO_CLOSE_HIGHLIGHTED = 'True'
+	TPO_CLOSE_MARKER = 'True'
+	TPO_CLOSE_MARKER_ALIGNMENT = '2'
+	TPO_CLOSE_MARKER_STYLE = '1'
+	TPO_CLOSE_OVERRIDDEN = 'False'
+	TPO_FILL_EMPTY_LEVELS = 'False'
+	TPO_FONT_NAME = 'Arial'
+	TPO_FONT_SIZE = '8'
+	TPO_FORCE_PI_ACTIVE = 'False'
+	TPO_FORCE_PI_VALUE = '50'
+	TPO_IBR1_ACTIVE = 'True'
+	TPO_IBR1_EXTENSION = 'False'
+	TPO_IBR1_SIZE = '50'
+	TPO_IBR1_STICK = 'True'
+	TPO_IBR2_ACTIVE = 'False'
+	TPO_IBR2_EXTENSION = 'False'
+	TPO_IBR2_SIZE = '0'
+	TPO_IBR2_STICK = 'True'
+	TPO_IBR3_ACTIVE = 'False'
+	TPO_IBR3_EXTENSION = 'False'
+	TPO_IBR3_SIZE = '0'
+	TPO_IBR3_STICK = 'True'
+	TPO_IBR4_ACTIVE = 'False'
+	TPO_IBR4_EXTENSION = 'False'
+	TPO_IBR4_SIZE = '0'
+	TPO_IBR4_STICK = 'True'
+	TPO_IBR_ACTIVE = 'True'
+	TPO_IBR_SHOW_EXTENSIONS = 'False'
+	TPO_IBR_SHOW_MARKER = 'True'
+	TPO_IBR_SIZE = '2'
+	TPO_INVERTED_POC_TEXT = 'True'
+	TPO_LASTFORCE_PI = '-1'
+	TPO_LETTERS_APPLY_TO_BK = 'False'
+	TPO_LETTERS_BACKGROUND_ACTIVE = 'False'
+	TPO_LETTERS_CAS_NAME = 'Default'
+	TPO_LETTERS_COL_OPEN_MARK = 'False'
+	TPO_LETTERS_IN_OWN_COLUMNS = 'False'
+	TPO_LETTERS_USE_CAS = 'True'
+	TPO_MIDPOINT_EXTENSIONS = 'False'
+	TPO_MIDPOINT_HIGHLIGHTED = 'True'
+	TPO_MIDPOINT_MARKER = 'False'
+	TPO_MIDPOINT_MARKER_ALIGNMENT = '1'
+	TPO_MIDPOINT_MARKER_STYLE = '1'
+	TPO_OPEN_ACTIVE = 'True'
+	TPO_OPEN_HIGHLIGHTED = 'True'
+	TPO_OPEN_MARKER = 'True'
+	TPO_OPEN_MARKER_ALIGNMENT = '2'
+	TPO_OPEN_MARKER_STYLE = '1'
+	TPO_OPEN_OVERRIDDEN = 'False'
+	TPO_OR_ACTIVE = 'False'
+	TPO_OR_SHOW_EXTENSIONS = 'True'
+	TPO_OR_SHOW_MARKER = 'False'
+	TPO_OR_SIZE = '5'
+	TPO_POC_ACTIVE = 'True'
+	TPO_POC_MARKER_ALIGNMENT = '2'
+	TPO_POC_MARKER_STYLE = '2'
+	TPO_POC_SHOW_EXTENSIONS = 'True'
+	TPO_POC_SHOW_IN_TPO = 'False'
+	TPO_POC_SHOW_MARKER = 'True'
+	TPO_SEQUENCE = 'ABCDEFGHIJKLMNPQRSTVWXYZabcdefghijklmnpqrstvwxyz0123456789'
+	TPO_SHOW_COUNTS = 'False'
+	TPO_SHOW_DATA_BAR = 'False'
+	TPO_SHOW_LEFT_BRACKETS = 'True'
+	TPO_SHOW_MIDPOINT = 'False'
+	TPO_SHOW_RIGHT_BRACKETS = 'True'
+	TPO_SHOW_STICK = 'True'
+	TPO_SHOW_VOLUME_PROFILE = 'True'
+	TPO_STYLE = '1'
+	TPO_UI_STATE = '0'
+	TPO_UPDATED_CAS = ''
+	TPO_USE_STATIC_FONT_SIZE = 'False'
+	TPO_VA_ACTIVE = 'True'
+	TPO_VA_ACTIVE2 = 'False'
+	TPO_VA_BOX_ACTIVE = 'True'
+	TPO_VA_BOX_ACTIVE2 = 'True'
+	TPO_VA_CALCULATION_TYPE = '1'
+	TPO_VA_SHOW_BACKGROUND = 'True'
+	TPO_VA_SHOW_BACKGROUND2 = 'True'
+	TPO_VA_SHOW_EXTENSIONS = 'False'
+	TPO_VA_SHOW_EXTENSIONS2 = 'False'
+	TPO_VA_SHOW_IN_TPO = 'False'
+	TPO_VA_SHOW_LEFT_BRACKETS = 'False'
+	TPO_VA_SHOW_LEFT_BRACKETS2 = 'False'
+	TPO_VA_SHOW_RIGHT_BRACKETS = 'False'
+	TPO_VA_SHOW_RIGHT_BRACKETS2 = 'False'
+	TPO_VA_SIZE = '70'
+	TPO_VA_SIZE2 = '25'
+	TPO_VA_SOURCE_TYPE = '1'
+	TPO_VOLUMES = 'False'
+	TPO_VP_BAR_WIDTH = '80'
+	TPO_VP_Border = 'False'
+	TPO_VP_INTERNAL_RECALCAUTO = 'False'
+	TPO_VP_ORIENTATION = '2'
+	TPO_VP_POC = 'True'
+	TPO_VP_VALUE_AREA = 'False'
+	TPO_VP_VALUE_AREA2 = 'False'
+	TPO_VP_VALUE_AREA_SIZE = '70'
+	TPO_VP_VALUE_AREA_SIZE2 = '25'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\VolumeObject]
+	VolumeBarWidth = '1'
+	VolumeBarsBackCount = '100'
+	VolumeBarsType = '2'
+	VolumeDataRangeType = '3'
+	VolumePlotNumber = '1'
+
+[Wsp\Window_0\ChartManager\ChartingPlugin]
+	Content = 'AAEAAAD/////AQAAAAAAAAAMAgAAAERWb2x1bWVQcm9maWxlLCBWZXJzaW9uPTEuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAJkNoYXJ0aW5nUGx1Z2luLlNlcmlhbGl6ZVNldHRpbmdzSGVscGVyAQAAABY8SXRlbXM+a19fQmFja2luZ0ZpZWxkA+EBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuRGljdGlvbmFyeWAyW1tTeXN0ZW0uSW50MzIsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV0sW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAgAAAAkDAAAABAMAAADhAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkRpY3Rpb25hcnlgMltbU3lzdGVtLkludDMyLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQQAAAAHVmVyc2lvbghDb21wYXJlcghIYXNoU2l6ZQ1LZXlWYWx1ZVBhaXJzAAMAAwiRAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkdlbmVyaWNFcXVhbGl0eUNvbXBhcmVyYDFbW1N5c3RlbS5JbnQzMiwgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0I5QFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5LZXlWYWx1ZVBhaXJgMltbU3lzdGVtLkludDMyLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXVtdAQAAAAkEAAAAAwAAAAkFAAAABAQAAACRAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkdlbmVyaWNFcXVhbGl0eUNvbXBhcmVyYDFbW1N5c3RlbS5JbnQzMiwgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0AAAAABwUAAAAAAQAAAAEAAAAD4wFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5LZXlWYWx1ZVBhaXJgMltbU3lzdGVtLkludDMyLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQT6////4wFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5LZXlWYWx1ZVBhaXJgMltbU3lzdGVtLkludDMyLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQIAAAADa2V5BXZhbHVlAAEIAAAAAAYHAAAA5LYBQUFFQUFBRC8vLy8vQVFBQUFBQUFBQUFNQWdBQUFFUldiMngxYldWUWNtOW1hV3hsTENCV1pYSnphVzl1UFRFdU1DNHdMakFzSUVOMWJIUjFjbVU5Ym1WMWRISmhiQ3dnVUhWaWJHbGpTMlY1Vkc5clpXNDliblZzYkFVQkFBQUFMVU5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxsWnZiSFZ0WlZCeWIyWnBiR1ZUWlhSMGFXNW5jd3dBQUFBT1ZtbHpkV0ZzVTJWMGRHbHVaM01RU1c1MFpYSjJZV3hUWlhSMGFXNW5jd3hVY21GdWMzQmhjbVZ1WTNrS1ZrRlRhWHBsVUdOdWRBaEJiR2xuYldWdWRBcENjbVZoYTBSdmQyNVdERkJ2YVc1MGMxQmxjbEp2ZHdoUWNtOW1WSGx3WlFWWGFXUjBhQWRXYVhOcFlteGxEVVJ5WVhkQlpuUmxja0poY25NV1FXeDNZWGx6VTJodmQwVnVkR2x5WlU1MWJXSmxjZ1FFQUFBRUJBQUVBQUFBQUNaRGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVXYVhOMVlXeFRaWFIwYVc1bmN3SUFBQUFvUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVTVzUwWlhKMllXeFRaWFIwYVc1bmN3SUFBQUFJQ0NKRGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVGUVd4cFoyNXRaVzUwQWdBQUFDZERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1Q2NtVmhhMFJ2ZDI1V2IyeDFiV1VDQUFBQUNDTkRhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1UWNtOW1hV3hsVkhsd1pRSUFBQUFJQVFFQkFnQUFBQWtEQUFBQUNRUUFBQUFBQUFBQVJnQUFBQVg3Ly8vL0lrTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGtWQmJHbG5ibTFsYm5RQkFBQUFCM1poYkhWbFgxOEFDQUlBQUFBQUFBQUFCZnIvLy84blEyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011UW5KbFlXdEViM2R1Vm05c2RXMWxBUUFBQUFkMllXeDFaVjlmQUFnQ0FBQUFBQUFBQUFFQUFBQUYrZi8vL3lORGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVRY205bWFXeGxWSGx3WlFFQUFBQUhkbUZzZFdWZlh3QUlBZ0FBQUFBQUFBQmtBQUFBQUFBQUJRTUFBQUFtUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVWbWx6ZFdGc1UyVjBkR2x1WjNNQkFBQUFCRkJ2YjJ3RGh3SlRlWE4wWlcwdVEyOXNiR1ZqZEdsdmJuTXVSMlZ1WlhKcFl5NUVhV04wYVc5dVlYSjVZREpiVzBOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMbEJ5YjJacGJHVlVlWEJsTENCV2IyeDFiV1ZRY205bWFXeGxMQ0JXWlhKemFXOXVQVEV1TUM0d0xqQXNJRU4xYkhSMWNtVTlibVYxZEhKaGJDd2dVSFZpYkdsalMyVjVWRzlyWlc0OWJuVnNiRjBzVzBOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMa0poYzJWV2FYTjFZV3hUWlhSMGFXNW5jeXdnVm05c2RXMWxVSEp2Wm1sc1pTd2dWbVZ5YzJsdmJqMHhMakF1TUM0d0xDQkRkV3gwZFhKbFBXNWxkWFJ5WVd3c0lGQjFZbXhwWTB0bGVWUnZhMlZ1UFc1MWJHeGRYUUlBQUFBSkNBQUFBQVVFQUFBQUtFTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGtsdWRHVnlkbUZzVTJWMGRHbHVaM01DQUFBQUJVbDBaVzF6QkV0cGJtUURCSWdDVTNsemRHVnRMa052Ykd4bFkzUnBiMjV6TGtkbGJtVnlhV011UkdsamRHbHZibUZ5ZVdBeVcxdERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1SmJuUmxjblpoYkZObGRIUnBibWR6SzBWTGFXNWtMQ0JXYjJ4MWJXVlFjbTltYVd4bExDQldaWEp6YVc5dVBURXVNQzR3TGpBc0lFTjFiSFIxY21VOWJtVjFkSEpoYkN3Z1VIVmliR2xqUzJWNVZHOXJaVzQ5Ym5Wc2JGMHNXME5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxrbHVkR1Z5ZG1Gc0xDQldiMngxYldWUWNtOW1hV3hsTENCV1pYSnphVzl1UFRFdU1DNHdMakFzSUVOMWJIUjFjbVU5Ym1WMWRISmhiQ3dnVUhWaWJHbGpTMlY1Vkc5clpXNDliblZzYkYxZExrTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGtsdWRHVnlkbUZzVTJWMGRHbHVaM01yUlV0cGJtUUNBQUFBQWdBQUFBa0pBQUFBQmZiLy8vOHVRMmhoY25ScGJtZFFiSFZuYVc0dVUyVjBkR2x1WjNNdVNXNTBaWEoyWVd4VFpYUjBhVzVuY3l0RlMybHVaQUVBQUFBSGRtRnNkV1ZmWHdBSUFnQUFBQUVBQUFBRUNBQUFBSWNDVTNsemRHVnRMa052Ykd4bFkzUnBiMjV6TGtkbGJtVnlhV011UkdsamRHbHZibUZ5ZVdBeVcxdERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1UWNtOW1hV3hsVkhsd1pTd2dWbTlzZFcxbFVISnZabWxzWlN3Z1ZtVnljMmx2YmoweExqQXVNQzR3TENCRGRXeDBkWEpsUFc1bGRYUnlZV3dzSUZCMVlteHBZMHRsZVZSdmEyVnVQVzUxYkd4ZExGdERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1Q1lYTmxWbWx6ZFdGc1UyVjBkR2x1WjNNc0lGWnZiSFZ0WlZCeWIyWnBiR1VzSUZabGNuTnBiMjQ5TVM0d0xqQXVNQ3dnUTNWc2RIVnlaVDF1WlhWMGNtRnNMQ0JRZFdKc2FXTkxaWGxVYjJ0bGJqMXVkV3hzWFYwRUFBQUFCMVpsY25OcGIyNElRMjl0Y0dGeVpYSUlTR0Z6YUZOcGVtVU5TMlY1Vm1Gc2RXVlFZV2x5Y3dBREFBTUluZ0ZUZVhOMFpXMHVRMjlzYkdWamRHbHZibk11UjJWdVpYSnBZeTVGYm5WdFJYRjFZV3hwZEhsRGIyMXdZWEpsY21BeFcxdERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1UWNtOW1hV3hsVkhsd1pTd2dWbTlzZFcxbFVISnZabWxzWlN3Z1ZtVnljMmx2YmoweExqQXVNQzR3TENCRGRXeDBkWEpsUFc1bGRYUnlZV3dzSUZCMVlteHBZMHRsZVZSdmEyVnVQVzUxYkd4ZFhRaUxBbE41YzNSbGJTNURiMnhzWldOMGFXOXVjeTVIWlc1bGNtbGpMa3RsZVZaaGJIVmxVR0ZwY21BeVcxdERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1UWNtOW1hV3hsVkhsd1pTd2dWbTlzZFcxbFVISnZabWxzWlN3Z1ZtVnljMmx2YmoweExqQXVNQzR3TENCRGRXeDBkWEpsUFc1bGRYUnlZV3dzSUZCMVlteHBZMHRsZVZSdmEyVnVQVzUxYkd4ZExGdERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1Q1lYTmxWbWx6ZFdGc1UyVjBkR2x1WjNNc0lGWnZiSFZ0WlZCeWIyWnBiR1VzSUZabGNuTnBiMjQ5TVM0d0xqQXVNQ3dnUTNWc2RIVnlaVDF1WlhWMGNtRnNMQ0JRZFdKc2FXTkxaWGxVYjJ0bGJqMXVkV3hzWFYxYlhRc0FBQUFKQ3dBQUFBY0FBQUFKREFBQUFBUUpBQUFBaUFKVGVYTjBaVzB1UTI5c2JHVmpkR2x2Ym5NdVIyVnVaWEpwWXk1RWFXTjBhVzl1WVhKNVlESmJXME5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxrbHVkR1Z5ZG1Gc1UyVjBkR2x1WjNNclJVdHBibVFzSUZadmJIVnRaVkJ5YjJacGJHVXNJRlpsY25OcGIyNDlNUzR3TGpBdU1Dd2dRM1ZzZEhWeVpUMXVaWFYwY21Gc0xDQlFkV0pzYVdOTFpYbFViMnRsYmoxdWRXeHNYU3hiUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVTVzUwWlhKMllXd3NJRlp2YkhWdFpWQnliMlpwYkdVc0lGWmxjbk5wYjI0OU1TNHdMakF1TUN3Z1EzVnNkSFZ5WlQxdVpYVjBjbUZzTENCUWRXSnNhV05MWlhsVWIydGxiajF1ZFd4c1hWMEVBQUFBQjFabGNuTnBiMjRJUTI5dGNHRnlaWElJU0dGemFGTnBlbVVOUzJWNVZtRnNkV1ZRWVdseWN3QURBQU1JcVFGVGVYTjBaVzB1UTI5c2JHVmpkR2x2Ym5NdVIyVnVaWEpwWXk1RmJuVnRSWEYxWVd4cGRIbERiMjF3WVhKbGNtQXhXMXREYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NUpiblJsY25aaGJGTmxkSFJwYm1kekswVkxhVzVrTENCV2IyeDFiV1ZRY205bWFXeGxMQ0JXWlhKemFXOXVQVEV1TUM0d0xqQXNJRU4xYkhSMWNtVTlibVYxZEhKaGJDd2dVSFZpYkdsalMyVjVWRzlyWlc0OWJuVnNiRjFkQ0l3Q1UzbHpkR1Z0TGtOdmJHeGxZM1JwYjI1ekxrZGxibVZ5YVdNdVMyVjVWbUZzZFdWUVlXbHlZREpiVzBOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMa2x1ZEdWeWRtRnNVMlYwZEdsdVozTXJSVXRwYm1Rc0lGWnZiSFZ0WlZCeWIyWnBiR1VzSUZabGNuTnBiMjQ5TVM0d0xqQXVNQ3dnUTNWc2RIVnlaVDF1WlhWMGNtRnNMQ0JRZFdKc2FXTkxaWGxVYjJ0bGJqMXVkV3hzWFN4YlEyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011U1c1MFpYSjJZV3dzSUZadmJIVnRaVkJ5YjJacGJHVXNJRlpsY25OcGIyNDlNUzR3TGpBdU1Dd2dRM1ZzZEhWeVpUMXVaWFYwY21Gc0xDQlFkV0pzYVdOTFpYbFViMnRsYmoxdWRXeHNYVjFiWFFNQUFBQUpEUUFBQUFNQUFBQUpEZ0FBQUFRTEFBQUFuZ0ZUZVhOMFpXMHVRMjlzYkdWamRHbHZibk11UjJWdVpYSnBZeTVGYm5WdFJYRjFZV3hwZEhsRGIyMXdZWEpsY21BeFcxdERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1UWNtOW1hV3hsVkhsd1pTd2dWbTlzZFcxbFVISnZabWxzWlN3Z1ZtVnljMmx2YmoweExqQXVNQzR3TENCRGRXeDBkWEpsUFc1bGRYUnlZV3dzSUZCMVlteHBZMHRsZVZSdmEyVnVQVzUxYkd4ZFhRQUFBQUFIREFBQUFBQUJBQUFBQlFBQUFBT0pBbE41YzNSbGJTNURiMnhzWldOMGFXOXVjeTVIWlc1bGNtbGpMa3RsZVZaaGJIVmxVR0ZwY21BeVcxdERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1UWNtOW1hV3hsVkhsd1pTd2dWbTlzZFcxbFVISnZabWxzWlN3Z1ZtVnljMmx2YmoweExqQXVNQzR3TENCRGRXeDBkWEpsUFc1bGRYUnlZV3dzSUZCMVlteHBZMHRsZVZSdmEyVnVQVzUxYkd4ZExGdERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1Q1lYTmxWbWx6ZFdGc1UyVjBkR2x1WjNNc0lGWnZiSFZ0WlZCeWIyWnBiR1VzSUZabGNuTnBiMjQ5TVM0d0xqQXVNQ3dnUTNWc2RIVnlaVDF1WlhWMGNtRnNMQ0JRZFdKc2FXTkxaWGxVYjJ0bGJqMXVkV3hzWFYwRThmLy8vNGtDVTNsemRHVnRMa052Ykd4bFkzUnBiMjV6TGtkbGJtVnlhV011UzJWNVZtRnNkV1ZRWVdseVlESmJXME5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxsQnliMlpwYkdWVWVYQmxMQ0JXYjJ4MWJXVlFjbTltYVd4bExDQldaWEp6YVc5dVBURXVNQzR3TGpBc0lFTjFiSFIxY21VOWJtVjFkSEpoYkN3Z1VIVmliR2xqUzJWNVZHOXJaVzQ5Ym5Wc2JGMHNXME5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxrSmhjMlZXYVhOMVlXeFRaWFIwYVc1bmN5d2dWbTlzZFcxbFVISnZabWxzWlN3Z1ZtVnljMmx2YmoweExqQXVNQzR3TENCRGRXeDBkWEpsUFc1bGRYUnlZV3dzSUZCMVlteHBZMHRsZVZSdmEyVnVQVzUxYkd4ZFhRSUFBQUFEYTJWNUJYWmhiSFZsQkFRalEyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011VUhKdlptbHNaVlI1Y0dVQ0FBQUFNa05vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxsTnBibWRzWlZadmJIVnRaVlpwYzNWaGJGTmxkSFJwYm1kekFnQUFBQUh3Ly8vLytmLy8vd0FBQUFBSkVRQUFBQUh1Ly8vLzhmLy8vd0h0Ly8vLytmLy8vd0VBQUFBSkZBQUFBQUhyLy8vLzhmLy8vd0hxLy8vLytmLy8vd0lBQUFBSkZ3QUFBQUhvLy8vLzhmLy8vd0huLy8vLytmLy8vd01BQUFBSkdnQUFBQUhsLy8vLzhmLy8vd0hrLy8vLytmLy8vd1FBQUFBSkhRQUFBQVFOQUFBQXFRRlRlWE4wWlcwdVEyOXNiR1ZqZEdsdmJuTXVSMlZ1WlhKcFl5NUZiblZ0UlhGMVlXeHBkSGxEYjIxd1lYSmxjbUF4VzF0RGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVKYm5SbGNuWmhiRk5sZEhScGJtZHpLMFZMYVc1a0xDQldiMngxYldWUWNtOW1hV3hsTENCV1pYSnphVzl1UFRFdU1DNHdMakFzSUVOMWJIUjFjbVU5Ym1WMWRISmhiQ3dnVUhWaWJHbGpTMlY1Vkc5clpXNDliblZzYkYxZEFBQUFBQWNPQUFBQUFBRUFBQUFEQUFBQUE0b0NVM2x6ZEdWdExrTnZiR3hsWTNScGIyNXpMa2RsYm1WeWFXTXVTMlY1Vm1Gc2RXVlFZV2x5WURKYlcwTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGtsdWRHVnlkbUZzVTJWMGRHbHVaM01yUlV0cGJtUXNJRlp2YkhWdFpWQnliMlpwYkdVc0lGWmxjbk5wYjI0OU1TNHdMakF1TUN3Z1EzVnNkSFZ5WlQxdVpYVjBjbUZzTENCUWRXSnNhV05MWlhsVWIydGxiajF1ZFd4c1hTeGJRMmhoY25ScGJtZFFiSFZuYVc0dVUyVjBkR2x1WjNNdVNXNTBaWEoyWVd3c0lGWnZiSFZ0WlZCeWIyWnBiR1VzSUZabGNuTnBiMjQ5TVM0d0xqQXVNQ3dnUTNWc2RIVnlaVDF1WlhWMGNtRnNMQ0JRZFdKc2FXTkxaWGxVYjJ0bGJqMXVkV3hzWFYwRTR2Ly8vNG9DVTNsemRHVnRMa052Ykd4bFkzUnBiMjV6TGtkbGJtVnlhV011UzJWNVZtRnNkV1ZRWVdseVlESmJXME5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxrbHVkR1Z5ZG1Gc1UyVjBkR2x1WjNNclJVdHBibVFzSUZadmJIVnRaVkJ5YjJacGJHVXNJRlpsY25OcGIyNDlNUzR3TGpBdU1Dd2dRM1ZzZEhWeVpUMXVaWFYwY21Gc0xDQlFkV0pzYVdOTFpYbFViMnRsYmoxdWRXeHNYU3hiUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVTVzUwWlhKMllXd3NJRlp2YkhWdFpWQnliMlpwYkdVc0lGWmxjbk5wYjI0OU1TNHdMakF1TUN3Z1EzVnNkSFZ5WlQxdVpYVjBjbUZzTENCUWRXSnNhV05MWlhsVWIydGxiajF1ZFd4c1hWMENBQUFBQTJ0bGVRVjJZV3gxWlFRRUxrTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGtsdWRHVnlkbUZzVTJWMGRHbHVaM01yUlV0cGJtUUNBQUFBSkVOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMa2x1ZEdWeWRtRnNUR0Z6ZEFJQUFBQUI0Zi8vLy9iLy8vOEFBQUFBQ1NBQUFBQUIzLy8vLytMLy8vOEIzdi8vLy9iLy8vOEJBQUFBQ1NNQUFBQUIzUC8vLytMLy8vOEIyLy8vLy9iLy8vOENBQUFBQ1NZQUFBQUZFUUFBQURKRGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVUYVc1bmJHVldiMngxYldWV2FYTjFZV3hUWlhSMGFXNW5jdzBBQUFBWFBGWnZiSFZ0WlQ1clgxOUNZV05yYVc1blJtbGxiR1FKUkdWMlpXeHZjRlpCQ2tSbGRtVnNiM0JRVDBNS1JYaDBaVzVrWldSV1FRdEZlSFJsYm1SbFpGQlBReHRDWVhObFZtbHpkV0ZzVTJWMGRHbHVaM01yUlVOb1lXNW5aV1FyUW1GelpWWnBjM1ZoYkZObGRIUnBibWR6S3p4UGRYUk1hVzVsUG10ZlgwSmhZMnRwYm1kR2FXVnNaQzlDWVhObFZtbHpkV0ZzVTJWMGRHbHVaM01yUEVScGMzQnNZWGxVWlhoMFBtdGZYMEpoWTJ0cGJtZEdhV1ZzWkNaQ1lYTmxWbWx6ZFdGc1UyVjBkR2x1WjNNclBGWkJQbXRmWDBKaFkydHBibWRHYVdWc1pDZENZWE5sVm1semRXRnNVMlYwZEdsdVozTXJQRkJQUXo1clgxOUNZV05yYVc1blJtbGxiR1FxUW1GelpWWnBjM1ZoYkZObGRIUnBibWR6S3p4RWIzZHVUME0rYTE5ZlFtRmphMmx1WjBacFpXeGtLRUpoYzJWV2FYTjFZV3hUWlhSMGFXNW5jeXM4VlhCUFF6NXJYMTlDWVdOcmFXNW5SbWxsYkdRdVFtRnpaVlpwYzNWaGJGTmxkSFJwYm1kekt6eFFjbWxqWlZKaGJtZGxQbXRmWDBKaFkydHBibWRHYVdWc1pBUUVCQVFFQXdRRUJBUUVCQVFrUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVVbVZqZEZObGRIUnBibWR6QWdBQUFDUkRhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1TWFXNWxVMlYwZEdsdVozTUNBQUFBSkVOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMa3hwYm1WVFpYUjBhVzVuY3dJQUFBQWtRMmhoY25ScGJtZFFiSFZuYVc0dVUyVjBkR2x1WjNNdVRHbHVaVk5sZEhScGJtZHpBZ0FBQUNSRGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVNYVc1bFUyVjBkR2x1WjNNQ0FBQUFJbE41YzNSbGJTNUVaV3hsWjJGMFpWTmxjbWxoYkdsNllYUnBiMjVJYjJ4a1pYSW5RMmhoY25ScGJtZFFiSFZuYVc0dVUyVjBkR2x1WjNNdVQzVjBUR2x1WlZObGRIUnBibWR6QWdBQUFDUkRhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1VVpYaDBVMlYwZEdsdVozTUNBQUFBSkVOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMbEpsWTNSVFpYUjBhVzVuY3dJQUFBQWtRMmhoY25ScGJtZFFiSFZuYVc0dVUyVjBkR2x1WjNNdVVtVmpkRk5sZEhScGJtZHpBZ0FBQUNSRGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVNYVc1bFUyVjBkR2x1WjNNQ0FBQUFKRU5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxreHBibVZUWlhSMGFXNW5jd0lBQUFBa1EyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011VW1WamRGTmxkSFJwYm1kekFnQUFBQUlBQUFBSkp3QUFBQWtvQUFBQUNTa0FBQUFKS2dBQUFBa3JBQUFBQ1N3QUFBQUpMUUFBQUFrdUFBQUFDUzhBQUFBSk1BQUFBQWt4QUFBQUNUSUFBQUFKTXdBQUFBRVVBQUFBRVFBQUFBazBBQUFBQ1RVQUFBQUpOZ0FBQUFrM0FBQUFDVGdBQUFBSkxBQUFBQWs2QUFBQUNUc0FBQUFKUEFBQUFBazlBQUFBQ1Q0QUFBQUpQd0FBQUFsQUFBQUFCUmNBQUFBeVEyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011Ukc5MVlteGxWbTlzZFcxbFZtbHpkV0ZzVTJWMGRHbHVaM01PQUFBQUd6eFRaV3hzVm05c2RXMWxQbXRmWDBKaFkydHBibWRHYVdWc1pCbzhRblY1Vm05c2RXMWxQbXRmWDBKaFkydHBibWRHYVdWc1pBbEVaWFpsYkc5d1ZrRUtSR1YyWld4dmNGQlBRd3BGZUhSbGJtUmxaRlpCQzBWNGRHVnVaR1ZrVUU5REcwSmhjMlZXYVhOMVlXeFRaWFIwYVc1bmN5dEZRMmhoYm1kbFpDdENZWE5sVm1semRXRnNVMlYwZEdsdVozTXJQRTkxZEV4cGJtVSthMTlmUW1GamEybHVaMFpwWld4a0wwSmhjMlZXYVhOMVlXeFRaWFIwYVc1bmN5czhSR2x6Y0d4aGVWUmxlSFErYTE5ZlFtRmphMmx1WjBacFpXeGtKa0poYzJWV2FYTjFZV3hUWlhSMGFXNW5jeXM4VmtFK2ExOWZRbUZqYTJsdVowWnBaV3hrSjBKaGMyVldhWE4xWVd4VFpYUjBhVzVuY3lzOFVFOURQbXRmWDBKaFkydHBibWRHYVdWc1pDcENZWE5sVm1semRXRnNVMlYwZEdsdVozTXJQRVJ2ZDI1UFF6NXJYMTlDWVdOcmFXNW5SbWxsYkdRb1FtRnpaVlpwYzNWaGJGTmxkSFJwYm1kekt6eFZjRTlEUG10ZlgwSmhZMnRwYm1kR2FXVnNaQzVDWVhObFZtbHpkV0ZzVTJWMGRHbHVaM01yUEZCeWFXTmxVbUZ1WjJVK2ExOWZRbUZqYTJsdVowWnBaV3hrQkFRRUJBUUVBd1FFQkFRRUJBUWtRMmhoY25ScGJtZFFiSFZuYVc0dVUyVjBkR2x1WjNNdVVtVmpkRk5sZEhScGJtZHpBZ0FBQUNSRGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVTWldOMFUyVjBkR2x1WjNNQ0FBQUFKRU5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxreHBibVZUWlhSMGFXNW5jd0lBQUFBa1EyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011VEdsdVpWTmxkSFJwYm1kekFnQUFBQ1JEYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NU1hVzVsVTJWMGRHbHVaM01DQUFBQUpFTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGt4cGJtVlRaWFIwYVc1bmN3SUFBQUFpVTNsemRHVnRMa1JsYkdWbllYUmxVMlZ5YVdGc2FYcGhkR2x2YmtodmJHUmxjaWREYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NVBkWFJNYVc1bFUyVjBkR2x1WjNNQ0FBQUFKRU5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxsUmxlSFJUWlhSMGFXNW5jd0lBQUFBa1EyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011VW1WamRGTmxkSFJwYm1kekFnQUFBQ1JEYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NVNaV04wVTJWMGRHbHVaM01DQUFBQUpFTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGt4cGJtVlRaWFIwYVc1bmN3SUFBQUFrUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVUR2x1WlZObGRIUnBibWR6QWdBQUFDUkRhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1U1pXTjBVMlYwZEdsdVozTUNBQUFBQWdBQUFBbEJBQUFBQ1VJQUFBQUpRd0FBQUFsRUFBQUFDVVVBQUFBSlJnQUFBQWtzQUFBQUNVZ0FBQUFKU1FBQUFBbEtBQUFBQ1VzQUFBQUpUQUFBQUFsTkFBQUFDVTRBQUFBRkdnQUFBRE5EYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NVVjbWx3Y0d4bFZtOXNkVzFsVm1semRXRnNVMlYwZEdsdVozTVBBQUFBR2p4RWIzZHVSR1ZzZEdFK2ExOWZRbUZqYTJsdVowWnBaV3hrR0R4VmNFUmxiSFJoUG10ZlgwSmhZMnRwYm1kR2FXVnNaQmM4Vm05c2RXMWxQbXRmWDBKaFkydHBibWRHYVdWc1pBbEVaWFpsYkc5d1ZrRUtSR1YyWld4dmNGQlBRd3BGZUhSbGJtUmxaRlpCQzBWNGRHVnVaR1ZrVUU5REcwSmhjMlZXYVhOMVlXeFRaWFIwYVc1bmN5dEZRMmhoYm1kbFpDdENZWE5sVm1semRXRnNVMlYwZEdsdVozTXJQRTkxZEV4cGJtVSthMTlmUW1GamEybHVaMFpwWld4a0wwSmhjMlZXYVhOMVlXeFRaWFIwYVc1bmN5czhSR2x6Y0d4aGVWUmxlSFErYTE5ZlFtRmphMmx1WjBacFpXeGtKa0poYzJWV2FYTjFZV3hUWlhSMGFXNW5jeXM4VmtFK2ExOWZRbUZqYTJsdVowWnBaV3hrSjBKaGMyVldhWE4xWVd4VFpYUjBhVzVuY3lzOFVFOURQbXRmWDBKaFkydHBibWRHYVdWc1pDcENZWE5sVm1semRXRnNVMlYwZEdsdVozTXJQRVJ2ZDI1UFF6NXJYMTlDWVdOcmFXNW5SbWxsYkdRb1FtRnpaVlpwYzNWaGJGTmxkSFJwYm1kekt6eFZjRTlEUG10ZlgwSmhZMnRwYm1kR2FXVnNaQzVDWVhObFZtbHpkV0ZzVTJWMGRHbHVaM01yUEZCeWFXTmxVbUZ1WjJVK2ExOWZRbUZqYTJsdVowWnBaV3hrQkFRRUJBUUVCQU1FQkFRRUJBUUVKRU5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxsSmxZM1JUWlhSMGFXNW5jd0lBQUFBa1EyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011VW1WamRGTmxkSFJwYm1kekFnQUFBQ1JEYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NVNaV04wVTJWMGRHbHVaM01DQUFBQUpFTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGt4cGJtVlRaWFIwYVc1bmN3SUFBQUFrUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVUR2x1WlZObGRIUnBibWR6QWdBQUFDUkRhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1TWFXNWxVMlYwZEdsdVozTUNBQUFBSkVOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMa3hwYm1WVFpYUjBhVzVuY3dJQUFBQWlVM2x6ZEdWdExrUmxiR1ZuWVhSbFUyVnlhV0ZzYVhwaGRHbHZia2h2YkdSbGNpZERhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1UGRYUk1hVzVsVTJWMGRHbHVaM01DQUFBQUpFTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGxSbGVIUlRaWFIwYVc1bmN3SUFBQUFrUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVVbVZqZEZObGRIUnBibWR6QWdBQUFDUkRhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1U1pXTjBVMlYwZEdsdVozTUNBQUFBSkVOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMa3hwYm1WVFpYUjBhVzVuY3dJQUFBQWtRMmhoY25ScGJtZFFiSFZuYVc0dVUyVjBkR2x1WjNNdVRHbHVaVk5sZEhScGJtZHpBZ0FBQUNSRGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVTWldOMFUyVjBkR2x1WjNNQ0FBQUFBZ0FBQUFsUEFBQUFDVkFBQUFBSlVRQUFBQWxTQUFBQUNWTUFBQUFKVkFBQUFBbFZBQUFBQ1N3QUFBQUpWd0FBQUFsWUFBQUFDVmtBQUFBSldnQUFBQWxiQUFBQUNWd0FBQUFKWFFBQUFBRWRBQUFBRndBQUFBbGVBQUFBQ1Y4QUFBQUpZQUFBQUFsaEFBQUFDV0lBQUFBSll3QUFBQWtzQUFBQUNXVUFBQUFKWmdBQUFBbG5BQUFBQ1dnQUFBQUphUUFBQUFscUFBQUFDV3NBQUFBRklBQUFBQ1JEYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NUpiblJsY25aaGJFeGhjM1FDQUFBQUJWVnVhWFJ6QlVOdmRXNTBCQUFrUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVTVzUwWlhKMllXeFZibWwwQWdBQUFBZ0NBQUFBQlpULy8vOGtRMmhoY25ScGJtZFFiSFZuYVc0dVUyVjBkR2x1WjNNdVNXNTBaWEoyWVd4VmJtbDBBUUFBQUFkMllXeDFaVjlmQUFnQ0FBQUFBUUFBQUFFQUFBQUZJd0FBQUNWRGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVKYm5SbGNuWmhiRVYyWlhKNUFnQUFBQVZWYm1sMGN3VkRiM1Z1ZEFRQUpFTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGtsdWRHVnlkbUZzVlc1cGRBSUFBQUFJQWdBQUFBR1QvLy8vbFAvLy93RUFBQUFCQUFBQUJTWUFBQUFtUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVTVzUwWlhKMllXeEdjbTl0Vkc4REFBQUFCRVp5YjIwQ1ZHOEtWRzlKYzA5d1pXNWxaQUFBQUEwTkFRSUFBQUNmbURESTVCSFdpSjlZbXZLdEV0YUlBQXh1QUFBQVVWTjVjM1JsYlM1RWNtRjNhVzVuTENCV1pYSnphVzl1UFRRdU1DNHdMakFzSUVOMWJIUjFjbVU5Ym1WMWRISmhiQ3dnVUhWaWJHbGpTMlY1Vkc5clpXNDlZakF6WmpWbU4yWXhNV1ExTUdFellRVW5BQUFBSkVOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMbEpsWTNSVFpYUjBhVzVuY3dRQUFBQU1iVjlJWldsbmFIUlFZMjUwQjIxZmMzUjViR1VYUld4bGJXVnVkRk5sZEhScGJtZHpLMjFmWTI5c2IzSVlSV3hsYldWdWRGTmxkSFJwYm1kekswVkRhR0Z1WjJWa0FBUUVBd2dkUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVVM1I1YkdVQ0FBQUFGRk41YzNSbGJTNUVjbUYzYVc1bkxrTnZiRzl5YmdBQUFDSlRlWE4wWlcwdVJHVnNaV2RoZEdWVFpYSnBZV3hwZW1GMGFXOXVTRzlzWkdWeUFnQUFBR1FBQUFBRmtmLy8veDFEYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NVRkSGxzWlFFQUFBQUhkbUZzZFdWZlh3QUlBZ0FBQUFFQUFBQUZrUC8vL3hSVGVYTjBaVzB1UkhKaGQybHVaeTVEYjJ4dmNnUUFBQUFFYm1GdFpRVjJZV3gxWlFwcmJtOTNia052Ykc5eUJYTjBZWFJsQVFBQUFBa0hCMjRBQUFBS0FBQUFBQUFBQUFCRkFBRUFDWEVBQUFBRktBQUFBQ1JEYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NU1hVzVsVTJWMGRHbHVaM01FQUFBQUMyMWZkR2hwWTJ0dVpYTnpCMjFmYzNSNWJHVVhSV3hsYldWdWRGTmxkSFJwYm1keksyMWZZMjlzYjNJWVJXeGxiV1Z1ZEZObGRIUnBibWR6SzBWRGFHRnVaMlZrQUFRRUF3Z2RRMmhoY25ScGJtZFFiSFZuYVc0dVUyVjBkR2x1WjNNdVUzUjViR1VDQUFBQUZGTjVjM1JsYlM1RWNtRjNhVzVuTGtOdmJHOXliZ0FBQUNKVGVYTjBaVzB1UkdWc1pXZGhkR1ZUWlhKcFlXeHBlbUYwYVc5dVNHOXNaR1Z5QWdBQUFBTUFBQUFCanYvLy81SC8vLzhBQUFBQUFZMy8vLytRLy8vL0NnQUFBQUFBQUFBQU1BQUJBQWwwQUFBQUFTa0FBQUFvQUFBQUJRQUFBQUdMLy8vL2tmLy8vd0FBQUFBQml2Ly8vNUQvLy84S0FBQUFBQUFBQUFDTkFBRUFDWFFBQUFBQktnQUFBQ2dBQUFBREFBQUFBWW4vLy8rUi8vLy9BQUFBQUFHSS8vLy9rUC8vL3dvQUFBQUFBQUFBQUNVQUFRQUpkQUFBQUFFckFBQUFLQUFBQUFVQUFBQUJoLy8vLzVILy8vOEFBQUFBQVliLy8vK1EvLy8vQ2dBQUFBQUFBQUFBVHdBQkFBbDBBQUFBQkN3QUFBQWlVM2x6ZEdWdExrUmxiR1ZuWVhSbFUyVnlhV0ZzYVhwaGRHbHZia2h2YkdSbGNnTUFBQUFJUkdWc1pXZGhkR1VIZEdGeVoyVjBNQWR0WlhSb2IyUXdBd1FETUZONWMzUmxiUzVFWld4bFoyRjBaVk5sY21saGJHbDZZWFJwYjI1SWIyeGtaWElyUkdWc1pXZGhkR1ZGYm5SeWVTWkRhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1V2FYTjFZV3hUWlhSMGFXNW5jd0lBQUFBdlUzbHpkR1Z0TGxKbFpteGxZM1JwYjI0dVRXVnRZbVZ5U1c1bWIxTmxjbWxoYkdsNllYUnBiMjVJYjJ4a1pYSUpld0FBQUFrREFBQUFDWDBBQUFBRkxRQUFBQ2REYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NVBkWFJNYVc1bFUyVjBkR2x1WjNNRUFBQUFDMjFmZEdocFkydHVaWE56QjIxZmMzUjViR1VYUld4bGJXVnVkRk5sZEhScGJtZHpLMjFmWTI5c2IzSVlSV3hsYldWdWRGTmxkSFJwYm1kekswVkRhR0Z1WjJWa0FBUUVBd2drUTJoaGNuUnBibWRRYkhWbmFXNHVVMlYwZEdsdVozTXVUM1YwYkdsdVpWTjBlV3hsQWdBQUFCUlRlWE4wWlcwdVJISmhkMmx1Wnk1RGIyeHZjbTRBQUFBaVUzbHpkR1Z0TGtSbGJHVm5ZWFJsVTJWeWFXRnNhWHBoZEdsdmJraHZiR1JsY2dJQUFBQURBQUFBQllMLy8vOGtRMmhoY25ScGJtZFFiSFZuYVc0dVUyVjBkR2x1WjNNdVQzVjBiR2x1WlZOMGVXeGxBUUFBQUFkMllXeDFaVjlmQUFnQ0FBQUFBQUFBQUFHQi8vLy9rUC8vL3dvQUFBQUFBQUFBQUtZQUFRQUpkQUFBQUFVdUFBQUFKRU5vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxsUmxlSFJUWlhSMGFXNW5jd1FBQUFBSGJWOXpkSGxzWlF4dFgwaGxhV2RvZEZCamJuUVhSV3hsYldWdWRGTmxkSFJwYm1keksyMWZZMjlzYjNJWVJXeGxiV1Z1ZEZObGRIUnBibWR6SzBWRGFHRnVaMlZrQkFBRUF5RkRhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1VVpYaDBVM1I1YkdVQ0FBQUFDQlJUZVhOMFpXMHVSSEpoZDJsdVp5NURiMnh2Y200QUFBQWlVM2x6ZEdWdExrUmxiR1ZuWVhSbFUyVnlhV0ZzYVhwaGRHbHZia2h2YkdSbGNnSUFBQUFGZi8vLy95RkRhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1VVpYaDBVM1I1YkdVQkFBQUFCM1poYkhWbFgxOEFDQUlBQUFBQkFBQUFaQUFBQUFGKy8vLy9rUC8vL3dvQUFBQUFBQUFBQUtRQUFRQUpkQUFBQUFFdkFBQUFKd0FBQUdRQUFBQUJmZi8vLzVILy8vOENBQUFBQVh6Ly8vK1EvLy8vQ2dBQUFBQUFBQUFBVGdBQkFBbDBBQUFBQVRBQUFBQW5BQUFBWkFBQUFBRjcvLy8va2YvLy93SUFBQUFCZXYvLy81RC8vLzhLQUFBQUFBQUFBQUNKQUFFQUNYUUFBQUFCTVFBQUFDZ0FBQUFGQUFBQUFYbi8vLytSLy8vL0FBQUFBQUY0Ly8vL2tQLy8vd29BQUFBQUFBQUFBSTBBQVFBSmRBQUFBQUV5QUFBQUtBQUFBQVVBQUFBQmQvLy8vNUgvLy84QUFBQUFBWGIvLy8rUS8vLy9DZ0FBQUFBQUFBQUFUd0FCQUFsMEFBQUFBVE1BQUFBbkFBQUFDZ0FBQUFGMS8vLy9rZi8vL3dRQUFBQUJkUC8vLzVELy8vOEtBQUFBQUFBQUFBQ21BQUVBQ1hRQUFBQUJOQUFBQUNjQUFBQmtBQUFBQVhQLy8vK1IvLy8vQVFBQUFBRnkvLy8va1AvLy93b0FBQUFBQUFBQUFFVUFBUUFKandBQUFBRTFBQUFBS0FBQUFBTUFBQUFCY1AvLy81SC8vLzhBQUFBQUFXLy8vLytRLy8vL0NnQUFBQUFBQUFBQU1BQUJBQW1TQUFBQUFUWUFBQUFvQUFBQUJRQUFBQUZ0Ly8vL2tmLy8vd0FBQUFBQmJQLy8vNUQvLy84S0FBQUFBQUFBQUFDTkFBRUFDWklBQUFBQk53QUFBQ2dBQUFBREFBQUFBV3YvLy8rUi8vLy9BQUFBQUFGcS8vLy9rUC8vL3dvQUFBQUFBQUFBQUNVQUFRQUprZ0FBQUFFNEFBQUFLQUFBQUFVQUFBQUJhZi8vLzVILy8vOEFBQUFBQVdqLy8vK1EvLy8vQ2dBQUFBQUFBQUFBVHdBQkFBbVNBQUFBQVRvQUFBQXRBQUFBQXdBQUFBRm4vLy8vZ3YvLy93QUFBQUFCWnYvLy81RC8vLzhLQUFBQUFBQUFBQUNtQUFFQUNaSUFBQUFCT3dBQUFDNEFBQUFCWmYvLy8zLy8vLzhCQUFBQVpBQUFBQUZrLy8vL2tQLy8vd29BQUFBQUFBQUFBS1FBQVFBSmtnQUFBQUU4QUFBQUp3QUFBR1FBQUFBQlkvLy8vNUgvLy84Q0FBQUFBV0wvLy8rUS8vLy9DZ0FBQUFBQUFBQUFUZ0FCQUFtU0FBQUFBVDBBQUFBbkFBQUFaQUFBQUFGaC8vLy9rZi8vL3dJQUFBQUJZUC8vLzVELy8vOEtBQUFBQUFBQUFBQ0pBQUVBQ1pJQUFBQUJQZ0FBQUNnQUFBQUZBQUFBQVYvLy8vK1IvLy8vQUFBQUFBRmUvLy8va1AvLy93b0FBQUFBQUFBQUFJMEFBUUFKa2dBQUFBRS9BQUFBS0FBQUFBVUFBQUFCWGYvLy81SC8vLzhBQUFBQUFWei8vLytRLy8vL0NnQUFBQUFBQUFBQVR3QUJBQW1TQUFBQUFVQUFBQUFuQUFBQUNnQUFBQUZiLy8vL2tmLy8vd1FBQUFBQld2Ly8vNUQvLy84S0FBQUFBQUFBQUFDbUFBRUFDWklBQUFBQlFRQUFBQ2NBQUFCa0FBQUFBVm4vLy8rUi8vLy9BUUFBQUFGWS8vLy9rUC8vL3dvQUFBQUFBQUFBQUkwQUFRQUpxUUFBQUFGQ0FBQUFKd0FBQUdRQUFBQUJWdi8vLzVILy8vOEJBQUFBQVZYLy8vK1EvLy8vQ2dBQUFBQUFBQUFBV1FBQkFBbXBBQUFBQVVNQUFBQW9BQUFBQXdBQUFBRlUvLy8va2YvLy93QUFBQUFCVS8vLy81RC8vLzhLQUFBQUFBQUFBQUF3QUFFQUNhNEFBQUFCUkFBQUFDZ0FBQUFGQUFBQUFWSC8vLytSLy8vL0FBQUFBQUZRLy8vL2tQLy8vd29BQUFBQUFBQUFBSTBBQVFBSnJnQUFBQUZGQUFBQUtBQUFBQU1BQUFBQlQvLy8vNUgvLy84QUFBQUFBVTcvLy8rUS8vLy9DZ0FBQUFBQUFBQUFKUUFCQUFtdUFBQUFBVVlBQUFBb0FBQUFCUUFBQUFGTi8vLy9rZi8vL3dBQUFBQUJUUC8vLzVELy8vOEtBQUFBQUFBQUFBQlBBQUVBQ2E0QUFBQUJTQUFBQUMwQUFBQURBQUFBQVV2Ly8vK0MvLy8vQUFBQUFBRksvLy8va1AvLy93b0FBQUFBQUFBQUFLWUFBUUFKcmdBQUFBRkpBQUFBTGdBQUFBRkovLy8vZi8vLy93TUFBQUJrQUFBQUFVai8vLytRLy8vL0NnQUFBQUFBQUFBQXBBQUJBQW11QUFBQUFVb0FBQUFuQUFBQVpBQUFBQUZILy8vL2tmLy8vd0lBQUFBQlJ2Ly8vNUQvLy84S0FBQUFBQUFBQUFCT0FBRUFDYTRBQUFBQlN3QUFBQ2NBQUFCa0FBQUFBVVgvLy8rUi8vLy9BZ0FBQUFGRS8vLy9rUC8vL3dvQUFBQUFBQUFBQUlrQUFRQUpyZ0FBQUFGTUFBQUFLQUFBQUFVQUFBQUJRLy8vLzVILy8vOEFBQUFBQVVMLy8vK1EvLy8vQ2dBQUFBQUFBQUFBalFBQkFBbXVBQUFBQVUwQUFBQW9BQUFBQlFBQUFBRkIvLy8va2YvLy93QUFBQUFCUVAvLy81RC8vLzhLQUFBQUFBQUFBQUJQQUFFQUNhNEFBQUFCVGdBQUFDY0FBQUFLQUFBQUFULy8vLytSLy8vL0JBQUFBQUUrLy8vL2tQLy8vd29BQUFBQUFBQUFBS1lBQVFBSnJnQUFBQUZQQUFBQUp3QUFBR1FBQUFBQlBmLy8vNUgvLy84QkFBQUFBVHovLy8rUS8vLy9DZ0FBQUFBQUFBQUFqUUFCQUFuRkFBQUFBVkFBQUFBbkFBQUFaQUFBQUFFNi8vLy9rZi8vL3dFQUFBQUJPZi8vLzVELy8vOEtBQUFBQUFBQUFBQlpBQUVBQ2NVQUFBQUJVUUFBQUNjQUFBQmtBQUFBQVRqLy8vK1IvLy8vQVFBQUFBRTMvLy8va1AvLy93b0FBQUFBQUFBQUFFVUFBUUFKeFFBQUFBRlNBQUFBS0FBQUFBTUFBQUFCTnYvLy81SC8vLzhBQUFBQUFUWC8vLytRLy8vL0NnQUFBQUFBQUFBQU1BQUJBQW5NQUFBQUFWTUFBQUFvQUFBQUJRQUFBQUV6Ly8vL2tmLy8vd0FBQUFBQk12Ly8vNUQvLy84S0FBQUFBQUFBQUFDTkFBRUFDY3dBQUFBQlZBQUFBQ2dBQUFBREFBQUFBVEgvLy8rUi8vLy9BQUFBQUFFdy8vLy9rUC8vL3dvQUFBQUFBQUFBQUNVQUFRQUp6QUFBQUFGVkFBQUFLQUFBQUFVQUFBQUJMLy8vLzVILy8vOEFBQUFBQVM3Ly8vK1EvLy8vQ2dBQUFBQUFBQUFBVHdBQkFBbk1BQUFBQVZjQUFBQXRBQUFBQXdBQUFBRXQvLy8vZ3YvLy93QUFBQUFCTFAvLy81RC8vLzhLQUFBQUFBQUFBQUNtQUFFQUNjd0FBQUFCV0FBQUFDNEFBQUFCSy8vLy8zLy8vLzhCQUFBQVpBQUFBQUVxLy8vL2tQLy8vd29BQUFBQUFBQUFBS1FBQVFBSnpBQUFBQUZaQUFBQUp3QUFBR1FBQUFBQktmLy8vNUgvLy84Q0FBQUFBU2ovLy8rUS8vLy9DZ0FBQUFBQUFBQUFUZ0FCQUFuTUFBQUFBVm9BQUFBbkFBQUFaQUFBQUFFbi8vLy9rZi8vL3dJQUFBQUJKdi8vLzVELy8vOEtBQUFBQUFBQUFBQ0pBQUVBQ2N3QUFBQUJXd0FBQUNnQUFBQUZBQUFBQVNYLy8vK1IvLy8vQUFBQUFBRWsvLy8va1AvLy93b0FBQUFBQUFBQUFJMEFBUUFKekFBQUFBRmNBQUFBS0FBQUFBVUFBQUFCSS8vLy81SC8vLzhBQUFBQUFTTC8vLytRLy8vL0NnQUFBQUFBQUFBQVR3QUJBQW5NQUFBQUFWMEFBQUFuQUFBQUNnQUFBQUVoLy8vL2tmLy8vd1FBQUFBQklQLy8vNUQvLy84S0FBQUFBQUFBQUFDbUFBRUFDY3dBQUFBQlhnQUFBQ2NBQUFCa0FBQUFBUi8vLy8rUi8vLy9BUUFBQUFFZS8vLy9rUC8vL3dvQUFBQUFBQUFBQUkwQUFRQUo0d0FBQUFGZkFBQUFKd0FBQUdRQUFBQUJIUC8vLzVILy8vOEJBQUFBQVJ2Ly8vK1EvLy8vQ2dBQUFBQUFBQUFBV1FBQkFBbmpBQUFBQVdBQUFBQW9BQUFBQXdBQUFBRWEvLy8va2YvLy93QUFBQUFCR2YvLy81RC8vLzhLQUFBQUFBQUFBQUF3QUFFQUNlZ0FBQUFCWVFBQUFDZ0FBQUFGQUFBQUFSZi8vLytSLy8vL0FBQUFBQUVXLy8vL2tQLy8vd29BQUFBQUFBQUFBSTBBQVFBSjZBQUFBQUZpQUFBQUtBQUFBQU1BQUFBQkZmLy8vNUgvLy84QUFBQUFBUlQvLy8rUS8vLy9DZ0FBQUFBQUFBQUFKUUFCQUFub0FBQUFBV01BQUFBb0FBQUFCUUFBQUFFVC8vLy9rZi8vL3dBQUFBQUJFdi8vLzVELy8vOEtBQUFBQUFBQUFBQlBBQUVBQ2VnQUFBQUJaUUFBQUMwQUFBQURBQUFBQVJILy8vK0MvLy8vQUFBQUFBRVEvLy8va1AvLy93b0FBQUFBQUFBQUFLWUFBUUFKNkFBQUFBRm1BQUFBTGdBQUFBRVAvLy8vZi8vLy93RUFBQUJrQUFBQUFRNy8vLytRLy8vL0NnQUFBQUFBQUFBQXBBQUJBQW5vQUFBQUFXY0FBQUFuQUFBQVpBQUFBQUVOLy8vL2tmLy8vd0lBQUFBQkRQLy8vNUQvLy84S0FBQUFBQUFBQUFCT0FBRUFDZWdBQUFBQmFBQUFBQ2NBQUFCa0FBQUFBUXYvLy8rUi8vLy9BZ0FBQUFFSy8vLy9rUC8vL3dvQUFBQUFBQUFBQUlrQUFRQUo2QUFBQUFGcEFBQUFLQUFBQUFVQUFBQUJDZi8vLzVILy8vOEFBQUFBQVFqLy8vK1EvLy8vQ2dBQUFBQUFBQUFBalFBQkFBbm9BQUFBQVdvQUFBQW9BQUFBQlFBQUFBRUgvLy8va2YvLy93QUFBQUFCQnYvLy81RC8vLzhLQUFBQUFBQUFBQUJQQUFFQUNlZ0FBQUFCYXdBQUFDY0FBQUFLQUFBQUFRWC8vLytSLy8vL0JBQUFBQUVFLy8vL2tQLy8vd29BQUFBQUFBQUFBS1lBQVFBSjZBQUFBQVJ4QUFBQUlsTjVjM1JsYlM1RVpXeGxaMkYwWlZObGNtbGhiR2w2WVhScGIyNUliMnhrWlhJREFBQUFDRVJsYkdWbllYUmxCM1JoY21kbGREQUhiV1YwYUc5a01BTUVBekJUZVhOMFpXMHVSR1ZzWldkaGRHVlRaWEpwWVd4cGVtRjBhVzl1U0c5c1pHVnlLMFJsYkdWbllYUmxSVzUwY25reVEyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011VTJsdVoyeGxWbTlzZFcxbFZtbHpkV0ZzVTJWMGRHbHVaM01DQUFBQUwxTjVjM1JsYlM1U1pXWnNaV04wYVc5dUxrMWxiV0psY2tsdVptOVRaWEpwWVd4cGVtRjBhVzl1U0c5c1pHVnlDZjBBQUFBSkVRQUFBQW4vQUFBQUJIUUFBQUFpVTNsemRHVnRMa1JsYkdWbllYUmxVMlZ5YVdGc2FYcGhkR2x2YmtodmJHUmxjZ01BQUFBSVJHVnNaV2RoZEdVSGRHRnlaMlYwTUFkdFpYUm9iMlF3QXdRRE1GTjVjM1JsYlM1RVpXeGxaMkYwWlZObGNtbGhiR2w2WVhScGIyNUliMnhrWlhJclJHVnNaV2RoZEdWRmJuUnllVEpEYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NVRhVzVuYkdWV2IyeDFiV1ZXYVhOMVlXeFRaWFIwYVc1bmN3SUFBQUF2VTNsemRHVnRMbEpsWm14bFkzUnBiMjR1VFdWdFltVnlTVzVtYjFObGNtbGhiR2w2WVhScGIyNUliMnhrWlhJSkFBRUFBQWtSQUFBQUNmOEFBQUFFZXdBQUFEQlRlWE4wWlcwdVJHVnNaV2RoZEdWVFpYSnBZV3hwZW1GMGFXOXVTRzlzWkdWeUswUmxiR1ZuWVhSbFJXNTBjbmtIQUFBQUJIUjVjR1VJWVhOelpXMWliSGtHZEdGeVoyVjBFblJoY21kbGRGUjVjR1ZCYzNObGJXSnNlUTUwWVhKblpYUlVlWEJsVG1GdFpRcHRaWFJvYjJST1lXMWxEV1JsYkdWbllYUmxSVzUwY25rQkFRSUJBUUVETUZONWMzUmxiUzVFWld4bFoyRjBaVk5sY21saGJHbDZZWFJwYjI1SWIyeGtaWElyUkdWc1pXZGhkR1ZGYm5SeWVRWURBUUFBRTFONWMzUmxiUzVGZG1WdWRFaGhibVJzWlhJR0JBRUFBRXR0YzJOdmNteHBZaXdnVm1WeWMybHZiajAwTGpBdU1DNHdMQ0JEZFd4MGRYSmxQVzVsZFhSeVlXd3NJRkIxWW14cFkwdGxlVlJ2YTJWdVBXSTNOMkUxWXpVMk1Ua3pOR1V3T0RrR0JRRUFBQWQwWVhKblpYUXdCZ1lCQUFCRVZtOXNkVzFsVUhKdlptbHNaU3dnVm1WeWMybHZiajB4TGpBdU1DNHdMQ0JEZFd4MGRYSmxQVzVsZFhSeVlXd3NJRkIxWW14cFkwdGxlVlJ2YTJWdVBXNTFiR3dHQndFQUFDWkRhR0Z5ZEdsdVoxQnNkV2RwYmk1VFpYUjBhVzVuY3k1V2FYTjFZV3hUWlhSMGFXNW5jd1lJQVFBQUR6eHpkV0p6WTNKcFltVStZbDlmTlFvRWZRQUFBQzlUZVhOMFpXMHVVbVZtYkdWamRHbHZiaTVOWlcxaVpYSkpibVp2VTJWeWFXRnNhWHBoZEdsdmJraHZiR1JsY2djQUFBQUVUbUZ0WlF4QmMzTmxiV0pzZVU1aGJXVUpRMnhoYzNOT1lXMWxDVk5wWjI1aGRIVnlaUXBUYVdkdVlYUjFjbVV5Q2sxbGJXSmxjbFI1Y0dVUVIyVnVaWEpwWTBGeVozVnRaVzUwY3dFQkFRRUJBQU1JRFZONWMzUmxiUzVVZVhCbFcxMEpDQUVBQUFrR0FRQUFDUWNCQUFBR0N3RUFBRFZXYjJsa0lEeHpkV0p6WTNKcFltVStZbDlmTlNoVGVYTjBaVzB1VDJKcVpXTjBMQ0JUZVhOMFpXMHVSWFpsYm5SQmNtZHpLUVlNQVFBQVBGTjVjM1JsYlM1V2IybGtJRHh6ZFdKelkzSnBZbVUrWWw5Zk5TaFRlWE4wWlcwdVQySnFaV04wTENCVGVYTjBaVzB1UlhabGJuUkJjbWR6S1FnQUFBQUtCSThBQUFBaVUzbHpkR1Z0TGtSbGJHVm5ZWFJsVTJWeWFXRnNhWHBoZEdsdmJraHZiR1JsY2dNQUFBQUlSR1ZzWldkaGRHVUhkR0Z5WjJWME1BZHRaWFJvYjJRd0F3UURNRk41YzNSbGJTNUVaV3hsWjJGMFpWTmxjbWxoYkdsNllYUnBiMjVJYjJ4a1pYSXJSR1ZzWldkaGRHVkZiblJ5ZVRKRGFHRnlkR2x1WjFCc2RXZHBiaTVUWlhSMGFXNW5jeTVUYVc1bmJHVldiMngxYldWV2FYTjFZV3hUWlhSMGFXNW5jd0lBQUFBdlUzbHpkR1Z0TGxKbFpteGxZM1JwYjI0dVRXVnRZbVZ5U1c1bWIxTmxjbWxoYkdsNllYUnBiMjVJYjJ4a1pYSUpEUUVBQUFrVUFBQUFDZjhBQUFBRWtnQUFBQ0pUZVhOMFpXMHVSR1ZzWldkaGRHVlRaWEpwWVd4cGVtRjBhVzl1U0c5c1pHVnlBd0FBQUFoRVpXeGxaMkYwWlFkMFlYSm5aWFF3QjIxbGRHaHZaREFEQkFNd1UzbHpkR1Z0TGtSbGJHVm5ZWFJsVTJWeWFXRnNhWHBoZEdsdmJraHZiR1JsY2l0RVpXeGxaMkYwWlVWdWRISjVNa05vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxsTnBibWRzWlZadmJIVnRaVlpwYzNWaGJGTmxkSFJwYm1kekFnQUFBQzlUZVhOMFpXMHVVbVZtYkdWamRHbHZiaTVOWlcxaVpYSkpibVp2VTJWeWFXRnNhWHBoZEdsdmJraHZiR1JsY2drUUFRQUFDUlFBQUFBSi93QUFBQVNwQUFBQUlsTjVjM1JsYlM1RVpXeGxaMkYwWlZObGNtbGhiR2w2WVhScGIyNUliMnhrWlhJREFBQUFDRVJsYkdWbllYUmxCM1JoY21kbGREQUhiV1YwYUc5a01BTUVBekJUZVhOMFpXMHVSR1ZzWldkaGRHVlRaWEpwWVd4cGVtRjBhVzl1U0c5c1pHVnlLMFJsYkdWbllYUmxSVzUwY25reVEyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011Ukc5MVlteGxWbTlzZFcxbFZtbHpkV0ZzVTJWMGRHbHVaM01DQUFBQUwxTjVjM1JsYlM1U1pXWnNaV04wYVc5dUxrMWxiV0psY2tsdVptOVRaWEpwWVd4cGVtRjBhVzl1U0c5c1pHVnlDUk1CQUFBSkZ3QUFBQW4vQUFBQUJLNEFBQUFpVTNsemRHVnRMa1JsYkdWbllYUmxVMlZ5YVdGc2FYcGhkR2x2YmtodmJHUmxjZ01BQUFBSVJHVnNaV2RoZEdVSGRHRnlaMlYwTUFkdFpYUm9iMlF3QXdRRE1GTjVjM1JsYlM1RVpXeGxaMkYwWlZObGNtbGhiR2w2WVhScGIyNUliMnhrWlhJclJHVnNaV2RoZEdWRmJuUnllVEpEYUdGeWRHbHVaMUJzZFdkcGJpNVRaWFIwYVc1bmN5NUViM1ZpYkdWV2IyeDFiV1ZXYVhOMVlXeFRaWFIwYVc1bmN3SUFBQUF2VTNsemRHVnRMbEpsWm14bFkzUnBiMjR1VFdWdFltVnlTVzVtYjFObGNtbGhiR2w2WVhScGIyNUliMnhrWlhJSkZnRUFBQWtYQUFBQUNmOEFBQUFFeFFBQUFDSlRlWE4wWlcwdVJHVnNaV2RoZEdWVFpYSnBZV3hwZW1GMGFXOXVTRzlzWkdWeUF3QUFBQWhFWld4bFoyRjBaUWQwWVhKblpYUXdCMjFsZEdodlpEQURCQU13VTNsemRHVnRMa1JsYkdWbllYUmxVMlZ5YVdGc2FYcGhkR2x2YmtodmJHUmxjaXRFWld4bFoyRjBaVVZ1ZEhKNU0wTm9ZWEowYVc1blVHeDFaMmx1TGxObGRIUnBibWR6TGxSeWFYQndiR1ZXYjJ4MWJXVldhWE4xWVd4VFpYUjBhVzVuY3dJQUFBQXZVM2x6ZEdWdExsSmxabXhsWTNScGIyNHVUV1Z0WW1WeVNXNW1iMU5sY21saGJHbDZZWFJwYjI1SWIyeGtaWElKR1FFQUFBa2FBQUFBQ2Y4QUFBQUV6QUFBQUNKVGVYTjBaVzB1UkdWc1pXZGhkR1ZUWlhKcFlXeHBlbUYwYVc5dVNHOXNaR1Z5QXdBQUFBaEVaV3hsWjJGMFpRZDBZWEpuWlhRd0IyMWxkR2h2WkRBREJBTXdVM2x6ZEdWdExrUmxiR1ZuWVhSbFUyVnlhV0ZzYVhwaGRHbHZia2h2YkdSbGNpdEVaV3hsWjJGMFpVVnVkSEo1TTBOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMbFJ5YVhCd2JHVldiMngxYldWV2FYTjFZV3hUWlhSMGFXNW5jd0lBQUFBdlUzbHpkR1Z0TGxKbFpteGxZM1JwYjI0dVRXVnRZbVZ5U1c1bWIxTmxjbWxoYkdsNllYUnBiMjVJYjJ4a1pYSUpIQUVBQUFrYUFBQUFDZjhBQUFBRTR3QUFBQ0pUZVhOMFpXMHVSR1ZzWldkaGRHVlRaWEpwWVd4cGVtRjBhVzl1U0c5c1pHVnlBd0FBQUFoRVpXeGxaMkYwWlFkMFlYSm5aWFF3QjIxbGRHaHZaREFEQkFNd1UzbHpkR1Z0TGtSbGJHVm5ZWFJsVTJWeWFXRnNhWHBoZEdsdmJraHZiR1JsY2l0RVpXeGxaMkYwWlVWdWRISjVNa05vWVhKMGFXNW5VR3gxWjJsdUxsTmxkSFJwYm1kekxrUnZkV0pzWlZadmJIVnRaVlpwYzNWaGJGTmxkSFJwYm1kekFnQUFBQzlUZVhOMFpXMHVVbVZtYkdWamRHbHZiaTVOWlcxaVpYSkpibVp2VTJWeWFXRnNhWHBoZEdsdmJraHZiR1JsY2drZkFRQUFDUjBBQUFBSi93QUFBQVRvQUFBQUlsTjVjM1JsYlM1RVpXeGxaMkYwWlZObGNtbGhiR2w2WVhScGIyNUliMnhrWlhJREFBQUFDRVJsYkdWbllYUmxCM1JoY21kbGREQUhiV1YwYUc5a01BTUVBekJUZVhOMFpXMHVSR1ZzWldkaGRHVlRaWEpwWVd4cGVtRjBhVzl1U0c5c1pHVnlLMFJsYkdWbllYUmxSVzUwY25reVEyaGhjblJwYm1kUWJIVm5hVzR1VTJWMGRHbHVaM011Ukc5MVlteGxWbTlzZFcxbFZtbHpkV0ZzVTJWMGRHbHVaM01DQUFBQUwxTjVjM1JsYlM1U1pXWnNaV04wYVc5dUxrMWxiV0psY2tsdVptOVRaWEpwWVd4cGVtRjBhVzl1U0c5c1pHVnlDU0lCQUFBSkhRQUFBQW4vQUFBQUFmMEFBQUI3QUFBQUNRTUJBQUFKQkFFQUFBWW5BUUFBQjNSaGNtZGxkREFKQmdFQUFBWXBBUUFBS2tOb1lYSjBhVzVuVUd4MVoybHVMbE5sZEhScGJtZHpMa0poYzJWV2FYTjFZV3hUWlhSMGFXNW5jd1lxQVFBQUR6eHpkV0p6WTNKcFltVStZbDlmTmdvQi93QUFBSDBBQUFBSktnRUFBQWtHQVFBQUNTa0JBQUFHTFFFQUFEVldiMmxrSUR4emRXSnpZM0pwWW1VK1lsOWZOaWhUZVhOMFpXMHVUMkpxWldOMExDQlRlWE4wWlcwdVJYWmxiblJCY21kektRWXVBUUFBUEZONWMzUmxiUzVXYjJsa0lEeHpkV0p6WTNKcFltVStZbDlmTmloVGVYTjBaVzB1VDJKcVpXTjBMQ0JUZVhOMFpXMHVSWFpsYm5SQmNtZHpLUWdBQUFBS0FRQUJBQUI3QUFBQUNRTUJBQUFKQkFFQUFBWXhBUUFBQjNSaGNtZGxkREFKQmdFQUFBa3BBUUFBQ1NvQkFBQUtBUTBCQUFCN0FBQUFDUU1CQUFBSkJBRUFBQVkzQVFBQUIzUmhjbWRsZERBSkJnRUFBQWtwQVFBQUNTb0JBQUFLQVJBQkFBQjdBQUFBQ1FNQkFBQUpCQUVBQUFZOUFRQUFCM1JoY21kbGREQUpCZ0VBQUFrcEFRQUFDU29CQUFBS0FSTUJBQUI3QUFBQUNRTUJBQUFKQkFFQUFBWkRBUUFBQjNSaGNtZGxkREFKQmdFQUFBa3BBUUFBQ1NvQkFBQUtBUllCQUFCN0FBQUFDUU1CQUFBSkJBRUFBQVpKQVFBQUIzUmhjbWRsZERBSkJnRUFBQWtwQVFBQUNTb0JBQUFLQVJrQkFBQjdBQUFBQ1FNQkFBQUpCQUVBQUFaUEFRQUFCM1JoY21kbGREQUpCZ0VBQUFrcEFRQUFDU29CQUFBS0FSd0JBQUI3QUFBQUNRTUJBQUFKQkFFQUFBWlZBUUFBQjNSaGNtZGxkREFKQmdFQUFBa3BBUUFBQ1NvQkFBQUtBUjhCQUFCN0FBQUFDUU1CQUFBSkJBRUFBQVpiQVFBQUIzUmhjbWRsZERBSkJnRUFBQWtwQVFBQUNTb0JBQUFLQVNJQkFBQjdBQUFBQ1FNQkFBQUpCQUVBQUFaaEFRQUFCM1JoY21kbGREQUpCZ0VBQUFrcEFRQUFDU29CQUFBS0N3PT0L'
+
+[Wsp\Window_0\ChartManager\Divider]
+	Color = '255'
+	Enable = '1'
+	Style = '0'
+	Type = '1'
+
+[Wsp\Window_0\ChartManager\Font\Font]
+	Bold = '0'
+	Charset = '0'
+	Italic = '0'
+	Name = 'Arial'
+	Size = '7,5'
+	Strikethrough = '0'
+	Underline = '0'
+
+[Wsp\Window_0\ChartManager\Grid]
+	Color = '4276545'
+	Enable = '1'
+	Type = '4'
+
+[Wsp\Window_0\ChartManager\IndexViewCalc]
+	BarSpacing = '5'
+	BarsToRight = '20'
+	BarsToRightValue = '35'
+	ChartShiftViewType = '0'
+	ShowEmptyPeriod = '0'
+
+[Wsp\Window_0\ChartManager\MTSettings\Active_Orders_Style\0]
+	Color = '25512'
+	Style = '2'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Active_Orders_Style\1]
+	Color = '25512'
+	Style = '2'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Active_Orders_Style\2]
+	Color = '65310'
+	Style = '2'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Active_Orders_Style\3]
+	Color = '65310'
+	Style = '2'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Active_Orders_Style\4]
+	Color = '16016100'
+	Style = '2'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Active_Orders_Style\5]
+	Color = '16016100'
+	Style = '2'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Common_Settings]
+	PnLDisplayUnit = '2'
+	ShowBidAsk = 'True'
+	ShowFullModeTradeBar = 'False'
+	Show_ActiveOrders = 'True'
+	Show_HistoricalOrders = 'True'
+	Show_OpenPosition = 'True'
+	Show_OrderConfirmation = 'True'
+	Show_TradeBarPanel = 'True'
+	StopLimitOffset = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Connecting_Line_Length]
+	Connection_Line_Length = '40'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Entry\ArrowProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '13'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '0'
+	UnprofitColor = '0'
+	Visible = '0'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Entry\TickProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '0'
+	UnprofitColor = '255'
+	Visible = '0'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Exit\ArrowProps]
+	Color = '255'
+	OrderType = '258'
+	Style = '13'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '0'
+	UnprofitColor = '0'
+	Visible = '0'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Exit\TickProps]
+	Color = '255'
+	OrderType = '258'
+	Style = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Buy Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '0'
+	UnprofitColor = '255'
+	Visible = '0'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Entry\ArrowProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '13'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '0'
+	UnprofitColor = '0'
+	Visible = '0'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Entry\TickProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '0'
+	UnprofitColor = '255'
+	Visible = '0'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Exit\ArrowProps]
+	Color = '16711680'
+	OrderType = '514'
+	Style = '13'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '0'
+	UnprofitColor = '0'
+	Visible = '0'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Exit\TickProps]
+	Color = '16711680'
+	OrderType = '514'
+	Style = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Historical_Orders_Style\OrderType: Sell Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '0'
+	UnprofitColor = '255'
+	Visible = '0'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\MTSettings\Positions_Style\0]
+	Color = '15925247'
+	Style = '0'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\MTSettings\Positions_Style\1]
+	Color = '15925247'
+	Style = '0'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\OptimizeManager\OptimizeManager]
+	OptimizeAlgorithm = '0'
+
+[Wsp\Window_0\ChartManager\OptimizeManager\OptimizeManager\AlgorithmGrouper\OptAlgorithmGrouper]
+	Group = '0'
+
+[Wsp\Window_0\ChartManager\OptimizeManager\OptimizeManager\ClassicOptimizer\ClassicOtimizer]
+	OptReportExist = '0'
+	ReportFilePath = ''
+
+[Wsp\Window_0\ChartManager\OptimizeManager\OptimizeManager\MOOptimizer\MO]
+	MOReportExist = '0'
+	NumOfRunsFrom = '5'
+	NumOfRunsStep = '5'
+	NumOfRunsTo = '30'
+	OSSPercentFrom = '5'
+	OSSPercentStep = '5'
+	OSSPercentTo = '30'
+	ReportFilePath = ''
+	RobustnessParams = ''
+	WFAchored = 'False'
+	WFIntervalType = '0'
+
+[Wsp\Window_0\ChartManager\OptimizeManager\OptimizeManager\WFOptimizer\WFO]
+	IS_size = '10'
+	IntervalType = '0'
+	IsAnchored = '0'
+	IsDefaultInitNeeded = '1'
+	Num_of_Runs = '5'
+	OOS_Size_Type = '0'
+	OOS_size = '10'
+	ReportFilePath = ''
+	Segment_type = '1'
+	WFReportExist = '0'
+
+[Wsp\Window_0\ChartManager\PriceScale]
+	Left Characters = '7'
+	Left Manual = '0'
+	Left Scale = '0'
+	Precise Marker = '1'
+	Right Characters = '7'
+	Right Manual = '0'
+	Right Scale = '1'
+	Time To Close = '1'
+
+[Wsp\Window_0\ChartManager\PriceScale\AxisStyle]
+	AxisLineColor = '255'
+	AxisLineStyle = '0'
+	LabelColor = '16777215'
+
+[Wsp\Window_0\ChartManager\PriceScale\Font]
+	Bold = '0'
+	Charset = '0'
+	Italic = '0'
+	Name = 'Arial'
+	Size = '8,25'
+	Strikethrough = '0'
+	Underline = '0'
+
+[Wsp\Window_0\ChartManager\ScrollShow]
+	ShowScrollBar = '2'
+
+[Wsp\Window_0\ChartManager\SessionBreak]
+	Color = '3355443'
+	Enabled = '1'
+	Style = '3'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\StatusLine]
+	ColorA = '16777215'
+	ColorB = '65280'
+	ColorC = '255'
+	ColorD = '12632256'
+	CurrentBar = '12582912'
+	EnableMultiLine = '12582913'
+	EnableStatusLine = '12582913'
+	SFOrdA = '16777216'
+	SFOrdB = '536870912'
+	SFOrdC = '268435456'
+	SFOrdD = '67108864'
+	SFOrdE = '134217728'
+	SFOrdF = '4294967296'
+	SFOrdG = '1'
+	SFOrdH = '1073741824'
+	SFOrdI = '4194304'
+	SFOrdJ = '2'
+	SFOrdK = '4'
+	SFOrdL = '2147483648'
+	SFOrdM = '8388608'
+	SFOrdN = '8'
+	SFOrdO = '16'
+	SFOrdP = '32'
+	SFOrdQ = '64'
+	SFOrdR = '128'
+	SFOrdS = '2097152'
+	SFOrdT = '256'
+	SFOrdU = '512'
+	SFOrdV = '1024'
+	SFOrdW = '2048'
+	SFOrdX = '4096'
+	SFOrdY = '8192'
+	SFOrdZ = '16384'
+	SFOrd[ = '32768'
+	SFOrd\ = '65536'
+	SFOrd] = '131072'
+	SFOrd^ = '33554432'
+	SFOrd_ = '262144'
+	SFOrd` = '8589934592'
+	SFOrda = '524288'
+	SFOrdb = '1048576'
+	VisibleMask = '17179869183'
+
+[Wsp\Window_0\ChartManager\StatusLine\Font]
+	Bold = '0'
+	Charset = '0'
+	Italic = '0'
+	Name = 'Arial'
+	Size = '8,25'
+	Strikethrough = '0'
+	Underline = '0'
+
+[Wsp\Window_0\ChartManager\Strategy]
+	SignalObjectCount = '4'
+
+[Wsp\Window_0\ChartManager\Strategy\AlertObject]
+	AlertEnable = '1'
+	AlertType = '1'
+	PropertyCount = '8'
+
+[Wsp\Window_0\ChartManager\Strategy\AlertObject\Property_0]
+	PropertyName = '_Audio_Enable'
+	PropertyValue = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\AlertObject\Property_1]
+	PropertyName = '_Audio_Sound'
+	PropertyValue = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\AlertObject\Property_2]
+	PropertyName = '_Audio_Sound_File'
+	PropertyValue = 'ding.wav'
+
+[Wsp\Window_0\ChartManager\Strategy\AlertObject\Property_3]
+	PropertyName = '_Audio_Sound_Repeat'
+	PropertyValue = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\AlertObject\Property_4]
+	PropertyName = '_Visual_Enable'
+	PropertyValue = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\AlertObject\Property_5]
+	PropertyName = '_Visual_Timeout'
+	PropertyValue = '5'
+
+[Wsp\Window_0\ChartManager\Strategy\AlertObject\Property_6]
+	PropertyName = '_Email_Enable'
+	PropertyValue = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\AlertObject\Property_7]
+	PropertyName = '_Email_Subject'
+	PropertyValue = 'MultiCharts64 Alert'
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection]
+	Count = '4'
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection\Item_0]
+	Name = 'Interactive Brokers'
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection\Item_0\Proxy\MCPluginProxy\AdditionalInfo]
+	PluginData = {
+		 0A 5B 41 64 64 69 74 69 6F 6E 61 6C 73 50 61 72
+		 61 6D 73 5D 0A 09 41 4F 4E 45 6E 74 72 79 4F 72
+		 64 65 72 73 20 3D 20 27 30 27 0A 09 41 4F 4E 45
+		 78 69 74 4F 72 64 65 72 73 20 3D 20 27 30 27 0A
+		 09 43 6C 65 61 72 69 6E 67 41 63 63 6F 75 6E 74
+		 20 3D 20 27 27 0A 09 44 65 66 61 75 6C 74 41 63
+		 63 6F 75 6E 74 20 3D 20 27 27 0A 09 4F 43 4F 77
+		 69 74 68 4F 76 65 72 66 69 6C 6C 50 72 6F 74 65
+		 63 74 69 6F 6E 20 3D 20 27 30 27 0A 09 52 65 64
+		 75 63 65 53 69 7A 65 4F 43 4F 20 3D 20 27 30 27
+		 0A 09 53 65 74 74 6C 69 6E 67 46 69 72 6D 20 3D
+		 20 27 27 0A 09 54 49 46 20 3D 20 27 30 27 0A 09
+		 55 73 65 4F 75 74 73 69 64 65 52 54 48 20 3D 20
+		 27 31 27 0A 0A 5B 41 64 64 69 74 69 6F 6E 61 6C
+		 73 50 61 72 61 6D 73 5C 46 41 50 61 72 61 6D 73
+		 5D 0A 09 41 63 63 6F 75 6E 74 20 3D 20 27 27 0A
+		 09 41 6C 6C 6F 63 61 74 69 6F 6E 54 79 70 65 20
+		 3D 20 27 30 27 0A 09 47 72 6F 75 70 4E 61 6D 65
+		 20 3D 20 27 27 0A 09 4D 65 74 68 6F 64 20 3D 20
+		 27 27 0A 09 50 65 72 63 65 6E 74 61 67 65 20 3D
+		 20 27 27 0A 09 50 72 6F 66 69 6C 65 20 3D 20 27
+		 27 0A
+		}
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection\Item_0\Proxy\MCPluginProxy\ConnectionParams]
+	PluginData = {
+		 0A 5B 53 65 72 76 65 72 4F 70 74 69 6F 6E 73 5D
+		 0A 09 43 6C 69 65 6E 74 49 44 20 3D 20 27 30 27
+		 0A 09 43 6F 6E 6E 65 63 74 69 6F 6E 4C 6F 73 74
+		 54 69 6D 65 4F 75 74 20 3D 20 27 31 32 30 27 0A
+		 09 44 65 6C 61 79 20 3D 20 27 31 30 30 30 30 27
+		 0A 09 49 70 41 64 64 72 65 73 73 20 3D 20 27 31
+		 32 37 2E 30 2E 30 2E 31 27 0A 09 49 73 41 75 74
+		 6F 47 65 6E 65 72 61 74 65 49 44 20 3D 20 27 31
+		 27 0A 09 49 73 41 75 74 6F 52 65 63 6F 6E 6E 65
+		 63 74 20 3D 20 27 31 27 0A 09 49 73 4C 61 75 6E
+		 63 68 54 57 53 41 74 53 74 61 72 74 20 3D 20 27
+		 30 27 0A 09 49 73 4E 61 74 69 76 65 4F 43 4F 20
+		 3D 20 27 31 27 0A 09 4F 50 4C 43 61 6C 63 4D 6F
+		 64 65 20 3D 20 27 30 27 0A 09 50 6F 72 74 20 3D
+		 20 27 37 34 39 37 27 0A
+		}
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection\Item_1]
+	Name = 'Interactive Brokers (LIVE)'
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection\Item_1\Proxy\MCPluginProxy\AdditionalInfo]
+	PluginData = {
+		 0A 5B 41 64 64 69 74 69 6F 6E 61 6C 73 50 61 72
+		 61 6D 73 5D 0A 09 41 4F 4E 45 6E 74 72 79 4F 72
+		 64 65 72 73 20 3D 20 27 30 27 0A 09 41 4F 4E 45
+		 78 69 74 4F 72 64 65 72 73 20 3D 20 27 30 27 0A
+		 09 43 6C 65 61 72 69 6E 67 41 63 63 6F 75 6E 74
+		 20 3D 20 27 27 0A 09 44 65 66 61 75 6C 74 41 63
+		 63 6F 75 6E 74 20 3D 20 27 27 0A 09 4F 43 4F 77
+		 69 74 68 4F 76 65 72 66 69 6C 6C 50 72 6F 74 65
+		 63 74 69 6F 6E 20 3D 20 27 30 27 0A 09 52 65 64
+		 75 63 65 53 69 7A 65 4F 43 4F 20 3D 20 27 30 27
+		 0A 09 53 65 74 74 6C 69 6E 67 46 69 72 6D 20 3D
+		 20 27 27 0A 09 54 49 46 20 3D 20 27 30 27 0A 09
+		 55 73 65 4F 75 74 73 69 64 65 52 54 48 20 3D 20
+		 27 31 27 0A 0A 5B 41 64 64 69 74 69 6F 6E 61 6C
+		 73 50 61 72 61 6D 73 5C 46 41 50 61 72 61 6D 73
+		 5D 0A 09 41 63 63 6F 75 6E 74 20 3D 20 27 27 0A
+		 09 41 6C 6C 6F 63 61 74 69 6F 6E 54 79 70 65 20
+		 3D 20 27 30 27 0A 09 47 72 6F 75 70 4E 61 6D 65
+		 20 3D 20 27 27 0A 09 4D 65 74 68 6F 64 20 3D 20
+		 27 27 0A 09 50 65 72 63 65 6E 74 61 67 65 20 3D
+		 20 27 27 0A 09 50 72 6F 66 69 6C 65 20 3D 20 27
+		 27 0A
+		}
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection\Item_1\Proxy\MCPluginProxy\ConnectionParams]
+	PluginData = {
+		 0A 5B 53 65 72 76 65 72 4F 70 74 69 6F 6E 73 5D
+		 0A 09 43 6C 69 65 6E 74 49 44 20 3D 20 27 30 27
+		 0A 09 43 6F 6E 6E 65 63 74 69 6F 6E 4C 6F 73 74
+		 54 69 6D 65 4F 75 74 20 3D 20 27 31 32 30 27 0A
+		 09 44 65 6C 61 79 20 3D 20 27 31 30 30 30 30 27
+		 0A 09 49 70 41 64 64 72 65 73 73 20 3D 20 27 31
+		 32 37 2E 30 2E 30 2E 31 27 0A 09 49 73 41 75 74
+		 6F 47 65 6E 65 72 61 74 65 49 44 20 3D 20 27 31
+		 27 0A 09 49 73 41 75 74 6F 52 65 63 6F 6E 6E 65
+		 63 74 20 3D 20 27 31 27 0A 09 49 73 4C 61 75 6E
+		 63 68 54 57 53 41 74 53 74 61 72 74 20 3D 20 27
+		 30 27 0A 09 49 73 4E 61 74 69 76 65 4F 43 4F 20
+		 3D 20 27 31 27 0A 09 4F 50 4C 43 61 6C 63 4D 6F
+		 64 65 20 3D 20 27 30 27 0A 09 50 6F 72 74 20 3D
+		 20 27 37 34 39 37 27 0A
+		}
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection\Item_2]
+	Name = 'Interactive Brokers (TEST)'
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection\Item_3]
+	Name = 'OANDA'
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection\Item_3\Proxy\MCPluginProxy\AdditionalInfo]
+	PluginData = {
+		 0A 5B 41 64 64 69 74 69 6F 6E 61 6C 73 50 61 72
+		 61 6D 73 5D 0A 09 41 63 63 6F 75 6E 74 20 3D 20
+		 27 27 0A 09 45 78 70 69 72 79 20 3D 20 27 30 27
+		 0A 09 54 49 46 20 3D 20 27 30 27 0A
+		}
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\PluginsProxies\MCPluginProxiesCollection\Item_3\Proxy\MCPluginProxy\ConnectionParams]
+	PluginData = {
+		 0A 5B 53 65 72 76 65 72 4F 70 74 69 6F 6E 73 5D
+		 0A 09 41 6C 6C 6F 77 52 65 6D 6F 74 69 6E 67 20
+		 3D 20 27 30 27 0A 09 43 6F 6E 76 65 72 74 53 54
+		 4C 54 6F 4C 4D 54 20 3D 20 27 2D 31 27 0A 09 4C
+		 61 73 74 41 63 63 6F 75 6E 74 20 3D 20 27 27 0A
+		 09 4C 6F 67 69 6E 20 3D 20 27 27 0A 09 4E 61 74
+		 69 76 65 53 74 6F 70 50 72 69 63 65 20 3D 20 27
+		 30 27 0A 09 50 61 73 73 77 6F 72 64 20 3D 20 27
+		 75 6E 64 65 66 69 6E 65 64 27 0A 09 52 65 63 6F
+		 6E 6E 65 63 74 50 65 72 69 6F 64 20 3D 20 27 32
+		 30 27 0A 09 53 65 72 76 65 72 4E 61 6D 65 20 3D
+		 20 27 31 27 0A 09 53 65 72 76 65 72 50 6F 72 74
+		 20 3D 20 27 31 27 0A
+		}
+
+[Wsp\Window_0\ChartManager\Strategy\MCBroker\MCBrokerObject\TradingSettings\TradingSettingsCache]
+	ATRejectLimit = '100'
+	ATStopNotWait = '0'
+	CancelMarketTimeOut = '30000'
+	ConvertEntryInterval = '0'
+	ConvertExitInterval = '0'
+	ConvertPartFillEntryInterval = '0'
+	ConvertPartFillExitInterval = '0'
+	CurDataFeed = 'Interactive Brokers'
+	EmulateLimit = '0'
+	EmulateStop = '0'
+	EmulateStopLimit = '0'
+	FilePath = ''
+	IsConfirmWindow = '0'
+	IsConvertExitToMarket = '0'
+	IsConvertLimitToMarket = '0'
+	IsConvertPartFillEntryToMarket = '0'
+	IsConvertPartFillExitToMarket = '0'
+	IsPlaySound = '0'
+	IsRepeatSound = '0'
+	NeedCancelMarketOrders = '1'
+	OptimizeSendOrdersMode = '0'
+	ReculcOnMPChange = '1'
+	ReculcOnOrderFill = '1'
+	ReculcOnOrderReject = '0'
+	ShowSyncMPDialogMode = '0'
+	SystemName = 'Interactive Brokers (LIVE)'
+	isBrokerRT = '1'
+	isSincMode = '1'
+	isStatusWindowShow = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0]
+	IdName = 's_Z_score_modified0722'
+	Status = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper]
+	CalcRTAsHistory = '1'
+	GordonLamCalc = '0'
+	IOGEnabled = '0'
+	IOGTypeEntry = '1'
+	IOGTypeExit = '1'
+	TimesPerBar = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\InputHelper\Input_LX_Score]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1,9'
+	Start2 = '1,9'
+	Step2 = '1'
+	Stop2 = '1,9'
+	Value = '1.9'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\InputHelper\Input_Price]
+	Value = 'close'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\InputHelper\Input_SX_Score]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '-2,2'
+	Start2 = '-2,2'
+	Step2 = '1'
+	Stop2 = '-2,2'
+	Value = '-2.2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\InputHelper\Input_Z_len]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '30'
+	Start2 = '30'
+	Step2 = '1'
+	Stop2 = '30'
+	Value = '30'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\InputHelper\Input_begin_time]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '910'
+	Start2 = '910'
+	Step2 = '1'
+	Stop2 = '910'
+	Value = '0910'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\InputHelper\Input_end_time]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1615'
+	Start2 = '1615'
+	Step2 = '1'
+	Stop2 = '1615'
+	Value = '1615'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Entry\ArrowProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Entry\TickProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Exit\ArrowProps]
+	Color = '16777215'
+	OrderType = '258'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Exit\TickProps]
+	Color = '16777215'
+	OrderType = '258'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Buy Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Entry\ArrowProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Entry\TickProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Exit\ArrowProps]
+	Color = '16777215'
+	OrderType = '514'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Exit\TickProps]
+	Color = '16777215'
+	OrderType = '514'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_0\SignalHelper\Styles\OrderType: Sell Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1]
+	IdName = 'sa_Stopa20Loss'
+	Status = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper]
+	CalcRTAsHistory = '1'
+	GordonLamCalc = '0'
+	IOGEnabled = '0'
+	IOGTypeEntry = '1'
+	IOGTypeExit = '1'
+	TimesPerBar = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_Amount]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '3500'
+	Start2 = '3500'
+	Step2 = '1'
+	Stop2 = '3500'
+	Value = '3500'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_PositionBasis]
+	Value = 'false'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Entry\ArrowProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Entry\TickProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Exit\ArrowProps]
+	Color = '16777215'
+	OrderType = '258'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Exit\TickProps]
+	Color = '16777215'
+	OrderType = '258'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Buy Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Entry\ArrowProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Entry\TickProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Exit\ArrowProps]
+	Color = '16777215'
+	OrderType = '514'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Exit\TickProps]
+	Color = '16777215'
+	OrderType = '514'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\Styles\OrderType: Sell Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2]
+	IdName = 's_HKFEDayEndCloseAll'
+	Status = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper]
+	CalcRTAsHistory = '1'
+	GordonLamCalc = '0'
+	IOGEnabled = '0'
+	IOGTypeEntry = '1'
+	IOGTypeExit = '1'
+	TimesPerBar = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\InputHelper\Input_SessionEND]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1620'
+	Start2 = '1620'
+	Step2 = '1'
+	Stop2 = '1620'
+	Value = '1620'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Entry\ArrowProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Entry\TickProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Exit\ArrowProps]
+	Color = '16777215'
+	OrderType = '258'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Exit\TickProps]
+	Color = '16777215'
+	OrderType = '258'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Buy Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Entry\ArrowProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Entry\TickProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Exit\ArrowProps]
+	Color = '16777215'
+	OrderType = '514'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Exit\TickProps]
+	Color = '16777215'
+	OrderType = '514'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_2\SignalHelper\Styles\OrderType: Sell Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3]
+	IdName = 'sa_Stopa20Lossa20Bya20Pointa20a25'
+	Status = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper]
+	CalcRTAsHistory = '1'
+	GordonLamCalc = '0'
+	IOGEnabled = '0'
+	IOGTypeEntry = '1'
+	IOGTypeExit = '1'
+	TimesPerBar = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\InputHelper\Input_CostPerPoint]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '50'
+	Start2 = '50'
+	Step2 = '1'
+	Stop2 = '50'
+	Value = '50'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\InputHelper\Input_Percentage]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '0,9'
+	Start2 = '0,9'
+	Step2 = '1'
+	Stop2 = '0,9'
+	Value = '0.9'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\InputHelper\Input_PositionBasis]
+	Value = 'false'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\ArrowProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\TickProps]
+	Color = '16711680'
+	OrderType = '257'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\ArrowProps]
+	Color = '16777215'
+	OrderType = '258'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\TickProps]
+	Color = '16777215'
+	OrderType = '258'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Buy Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\ArrowProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\TickProps]
+	Color = '255'
+	OrderType = '513'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Entry\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\ArrowProps]
+	Color = '16777215'
+	OrderType = '514'
+	Style = '10'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\ProfitLineProps]
+	OrderType = '257'
+	ProfitColor = '3329330'
+	Style = '2'
+	UnprofitColor = '0'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\SignalContractsProps]
+	ContractsColor = '16777215'
+	ContractsVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\SignalNameProps]
+	NameColor = '16777215'
+	NameVisible = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\TickProps]
+	Color = '16777215'
+	OrderType = '514'
+	Style = '5'
+	Width = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_3\SignalHelper\Styles\OrderType: Sell Exit\UnprofitLineProps]
+	OrderType = '257'
+	ProfitColor = '0'
+	Style = '2'
+	UnprofitColor = '255'
+	Visible = '1'
+	Width = '2'
+
+[Wsp\Window_0\ChartManager\Strategy\StrategyATPersistHelper]
+	ATOn = 'False'
+	Confirm = 'False'
+	NeedActivateAT = 'False'
+	Profile = 'Interactive Brokers (LIVE)'
+	StrategyName = 'Z_score_modified0722; HKFEDayEndCloseAll; Stop Loss By Point %'
+	SymbolName = 'HSIX8 - 5 Minutes - Interactive Brokers'
+
+[Wsp\Window_0\ChartManager\Strategy\StrategyHelper\OptimizerProperties\Algorithm_0]
+	CFFScriptGenetic = '// TODO: Enter your formula to replace the samples below 
+
+/************************************* Sample 1 ******************************************/
+if (StrategyPerformance.MaxStrategyDrawDown != 0) {
+   return StrategyPerformance.NetProfit / (-StrategyPerformance.MaxStrategyDrawDown);
+}
+
+/* This function maximizes the ratio of Net Profit to Max Drawdown.  The goal of this function is to find the trading rules that have a high net profit, but a small total drawdown over the back-tested period. */
+
+/************************************* Sample 2 ******************************************/
+// return StrategyPerformance.WinningTrades - StrategyPerformance.LosingTrades;
+
+/* This function maximizes the number of Winning trades minus the number of Losing Trades. */
+
+
+/************************************* Sample 3 ******************************************/
+// if (StrategyPerformance.GrossLoss != 0) {
+//    return StrategyPerformance.GrossProfit / StrategyPerformance.GrossLoss;
+// }
+/* This function maximizes the ratio of gross profit to gross loss. The smaller the gross loss is and the higher the gross profit is the higher this ratio will be. */
+
+/************************************* Sample 4 ******************************************/
+// if (StrategyPerformance.TotalTrades != 0) {
+//    return StrategyPerformance.WinningTrades / StrategyPerformance.TotalTrades;
+// }
+/* This function maximizes the percent of profitable trades. */
+
+
+/*
+
+The reserved words supported in Multicharts optimization:
+* NetProfit
+* GrossProfit
+* GrossLoss
+* TotalTrades
+* PercentProfitable
+* WinningTrades
+* LosingTrades
+* AvgTrade
+* AvgWinningTrade
+* AvgLosingTrade
+* WinLossRatio
+* MaxConsecWinners
+* MaxConsecLosers
+* AvgBarsInWinningTrades
+* AvgBarsInLosingTrades
+* MaxStrategyDrawDown
+* ProfitFactor
+* ReturnOnAccount
+* CustomFitnessValue
+
+*/
+
+/*
+
+The reserved words supported in Portfolio optimization:
+* NetProfit
+* GrossProfit
+* GrossLoss
+* TotalTrades
+* PercentProfitable
+* WinningTrades
+* LosingTrades
+* MaxStrategyDrawDown
+* CustomFitnessValue
+
+*/'
+	CriteriaDirection = '1'
+	CriteriaIndex = '0'
+	CriteriaType = '0'
+	Limits = '10000'
+	UseLimits = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\StrategyHelper\OptimizerProperties\Algorithm_1]
+	CFFScriptGenetic = '// TODO: Enter your formula to replace the samples below 
+
+/************************************* Sample 1 ******************************************/
+if (StrategyPerformance.MaxStrategyDrawDown != 0) {
+   return StrategyPerformance.NetProfit / (-StrategyPerformance.MaxStrategyDrawDown);
+}
+
+/* This function maximizes the ratio of Net Profit to Max Drawdown.  The goal of this function is to find the trading rules that have a high net profit, but a small total drawdown over the back-tested period. */
+
+/************************************* Sample 2 ******************************************/
+// return StrategyPerformance.WinningTrades - StrategyPerformance.LosingTrades;
+
+/* This function maximizes the number of Winning trades minus the number of Losing Trades. */
+
+
+/************************************* Sample 3 ******************************************/
+// if (StrategyPerformance.GrossLoss != 0) {
+//    return StrategyPerformance.GrossProfit / StrategyPerformance.GrossLoss;
+// }
+/* This function maximizes the ratio of gross profit to gross loss. The smaller the gross loss is and the higher the gross profit is the higher this ratio will be. */
+
+/************************************* Sample 4 ******************************************/
+// if (StrategyPerformance.TotalTrades != 0) {
+//    return StrategyPerformance.WinningTrades / StrategyPerformance.TotalTrades;
+// }
+/* This function maximizes the percent of profitable trades. */
+
+
+/*
+
+The reserved words supported in Multicharts optimization:
+* NetProfit
+* GrossProfit
+* GrossLoss
+* TotalTrades
+* PercentProfitable
+* WinningTrades
+* LosingTrades
+* AvgTrade
+* AvgWinningTrade
+* AvgLosingTrade
+* WinLossRatio
+* MaxConsecWinners
+* MaxConsecLosers
+* AvgBarsInWinningTrades
+* AvgBarsInLosingTrades
+* MaxStrategyDrawDown
+* ProfitFactor
+* ReturnOnAccount
+* CustomFitnessValue
+
+*/
+
+/*
+
+The reserved words supported in Portfolio optimization:
+* NetProfit
+* GrossProfit
+* GrossLoss
+* TotalTrades
+* PercentProfitable
+* WinningTrades
+* LosingTrades
+* MaxStrategyDrawDown
+* CustomFitnessValue
+
+*/'
+	CriteriaDirection = '1'
+	CriteriaIndex = '0'
+	CriteriaType = '0'
+	Limits = '10000'
+	UseLimits = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\StrategyHelper\OptimizerProperties\Algorithm_2]
+	CFFScriptGenetic = '// TODO: Enter your formula to replace the samples below 
+
+/************************************* Sample 1 ******************************************/
+if (StrategyPerformance.MaxStrategyDrawDown != 0) {
+   return StrategyPerformance.NetProfit / (-StrategyPerformance.MaxStrategyDrawDown);
+}
+
+/* This function maximizes the ratio of Net Profit to Max Drawdown.  The goal of this function is to find the trading rules that have a high net profit, but a small total drawdown over the back-tested period. */
+
+/************************************* Sample 2 ******************************************/
+// return StrategyPerformance.WinningTrades - StrategyPerformance.LosingTrades;
+
+/* This function maximizes the number of Winning trades minus the number of Losing Trades. */
+
+
+/************************************* Sample 3 ******************************************/
+// if (StrategyPerformance.GrossLoss != 0) {
+//    return StrategyPerformance.GrossProfit / StrategyPerformance.GrossLoss;
+// }
+/* This function maximizes the ratio of gross profit to gross loss. The smaller the gross loss is and the higher the gross profit is the higher this ratio will be. */
+
+/************************************* Sample 4 ******************************************/
+// if (StrategyPerformance.TotalTrades != 0) {
+//    return StrategyPerformance.WinningTrades / StrategyPerformance.TotalTrades;
+// }
+/* This function maximizes the percent of profitable trades. */
+
+
+/*
+
+The reserved words supported in Multicharts optimization:
+* NetProfit
+* GrossProfit
+* GrossLoss
+* TotalTrades
+* PercentProfitable
+* WinningTrades
+* LosingTrades
+* AvgTrade
+* AvgWinningTrade
+* AvgLosingTrade
+* WinLossRatio
+* MaxConsecWinners
+* MaxConsecLosers
+* AvgBarsInWinningTrades
+* AvgBarsInLosingTrades
+* MaxStrategyDrawDown
+* ProfitFactor
+* ReturnOnAccount
+* CustomFitnessValue
+
+*/
+
+/*
+
+The reserved words supported in Portfolio optimization:
+* NetProfit
+* GrossProfit
+* GrossLoss
+* TotalTrades
+* PercentProfitable
+* WinningTrades
+* LosingTrades
+* MaxStrategyDrawDown
+* CustomFitnessValue
+
+*/'
+	CriteriaDirection = '1'
+	CriteriaIndex = '0'
+	CriteriaType = '0'
+	Limits = '10000'
+	UseLimits = '0'
+
+[Wsp\Window_0\ChartManager\Strategy\StrategyHelper\StrategyProperties]
+	AllowEntryCount = '2'
+	AskIndex = '-1'
+	BTMode = '1'
+	BTOFAMode = '0'
+	BTOFAPoints = '0'
+	BTOFA_TIF = '1'
+	BarReference = '90'
+	BidIndex = '-1'
+	CalcPnLInSymbolCurrency = '1'
+	CommisionType = '0'
+	Commission = '0'
+	Currency = '8'
+	DollarsPerTrade = '10000'
+	EnablePositionLimit = '1'
+	FixedContracts = '1'
+	InitCapital = '100000'
+	InterestRate = '2'
+	LIBEnabled = '0'
+	LIBSize = '1'
+	LIBSkipIdenticalTicks = '1'
+	LIBTimeDetalization = '1'
+	LIBType = '1'
+	LimitType = '2'
+	MaximumPerPosition = '2'
+	MinimumContracts = '0'
+	PercentOfEquity = '5'
+	RoundDown = '1'
+	Slippage = '0'
+	SlippageType = '1'
+	TradeSizeType = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\StrategyHelper\StrategyProperties\CommissionRule]
+	CommissionObjTXT = {
+		 32 32 20 73 65 72 69 61 6C 69 7A 61 74 69 6F 6E
+		 3A 3A 61 72 63 68 69 76 65 20 35 20 30 20 32 20
+		 31 34 20 4D 00 48 00 49 00 20 00 43 00 6F 00 6D
+		 00 6D 00 69 00 73 00 73 00 69 00 6F 00 6E 00 20
+		 30 20 31 20 31 20 30 20 31 20 30 20 30 20 30 20
+		 31 20 30 20 30 20 30 20 30 20 30 20 34 20 30 20
+		 30 20 30 20 31 20 31 37 20 31 20 31 20 30 20 30
+		 20 30 20 30 0A
+		}
+
+[Wsp\Window_0\ChartManager\TimeScale]
+	ShowMillisecondTimescale = '1'
+	TimeScaleVisible = '1'
+
+[Wsp\Window_0\ChartManager\TimeScale\AxisStyle]
+	AxisLineColor = '255'
+	AxisLineStyle = '0'
+	LabelColor = '16777215'
+
+[Wsp\Window_0\ChartManager\TimeScale\Font]
+	Bold = '0'
+	Charset = '0'
+	Italic = '0'
+	Name = 'Arial'
+	Size = '8,25'
+	Strikethrough = '0'
+	Underline = '0'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder]
+	FullMode = '0'
+	InitPane = '1'
+	Visibility = '1'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting]
+	SettingsVersion = '1'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Loader]
+	CurAccount = 'U9127566'
+	CurProfile = ''
+	IsConnected = 'False'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings]
+	Count = '2'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0]
+	First = 'U9127566'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second]
+	Account = 'U9127566'
+	QTY = '1'
+	TIF = '1'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
+	Ticks = '599266080000000000'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1]
+	First = 'U9731677'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1\Second]
+	Account = 'U9731677'
+	QTY = '1'
+	TIF = '1'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1\Second\TIFDate]
+	Ticks = '636762582282780000'
+
+[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window\AtmAutoApplyCtx\PropertyState]
+	Count = '0'
+
+[Wsp\Window_0\ChartManager\VolumeScale]
+	VolumeBarColor = '8421504'
+	VolumeLeftScaleVisible = '0'
+	VolumeLeftScaleWidth = '50'
+	VolumeRightScaleVisible = '0'
+	VolumeRightScaleWidth = '50'

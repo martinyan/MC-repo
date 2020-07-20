@@ -10,10 +10,10 @@
 	WindowCount = '0'
 
 [Wsp\Window_0]
-	ContainerHeight = '162'
-	ContainerWidth = '1095'
+	ContainerHeight = '488'
+	ContainerWidth = '1098'
 	Flags = '2'
-	Height = '991'
+	Height = '759'
 	Left = '0'
 	MinX = '-1'
 	MinY = '-1'
@@ -74,9 +74,9 @@
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '43646'
+	FinishDate2Id = '44017'
 	FinishDate2Name = ''
-	FinishDateId = '43646'
+	FinishDateId = '44017'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '0,1'
@@ -138,8 +138,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '60,2944444444444'
-	Minimum = '53,0055555555556'
+	Maximum = '41,015'
+	Minimum = '37,515'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -2176,7 +2176,7 @@ The reserved words supported in Portfolio optimization:
 	TIF = '-1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
-	Ticks = '636969644280530000'
+	Ticks = '637292773971100000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1]
 	First = 'U9127566'
@@ -2198,7 +2198,7 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_2\Second\TIFDate]
-	Ticks = '636969644280530000'
+	Ticks = '637292773971110000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window\AtmAutoApplyCtx\PropertyState]
 	Count = '0'

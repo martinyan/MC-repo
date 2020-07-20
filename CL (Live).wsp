@@ -10,20 +10,20 @@
 	WindowCount = '0'
 
 [Wsp\Window_0]
-	ContainerHeight = '162'
-	ContainerWidth = '1095'
+	ContainerHeight = '509'
+	ContainerWidth = '1098'
 	Flags = '2'
-	Height = '412'
-	Left = '43'
+	Height = '583'
+	Left = '3478'
 	MinX = '-1'
 	MinY = '-1'
 	State = '3'
-	Top = '34'
+	Top = '509'
 	ViewType = '0'
-	Width = '1929'
+	Width = '1932'
 
 [Wsp\Window_0\ChartManager]
-	ChartCount = '4'
+	ChartCount = '1'
 	OFFSeriesCount = '0'
 
 [Wsp\Window_0\ChartManager\Background]
@@ -34,9 +34,9 @@
 
 [Wsp\Window_0\ChartManager\Chart_0]
 	LSeriesNum = '0'
-	PencentHeight = '0,5'
+	PencentHeight = '1'
 	RSeriesNum = '0'
-	SeriesCount = '1'
+	SeriesCount = '2'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0]
 	DataNumber = '0'
@@ -69,14 +69,14 @@
 	CustomResolutionsParams = ''
 	DataFeed = 'Interactive Brokers'
 	DeltaType = '1'
-	Description = 'USD MAR19 CL Futures CLH9 MULT:1000'
+	Description = 'USD MAY20 CL Futures CLK0 MULT:1000'
 	Exchange = 'NYMEX'
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '43646'
+	FinishDate2Id = '43948'
 	FinishDate2Name = ''
-	FinishDateId = '43646'
+	FinishDateId = '43948'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '0,1'
@@ -93,7 +93,7 @@
 	RealTimeCategory = '0'
 	RealTimeDataFeed = 'Interactive Brokers'
 	RealTimeExchange = 'NYMEX'
-	RealTimeSymbol = 'CLH9'
+	RealTimeSymbol = 'CLK0'
 	RenkoBasis = '0'
 	RenkoBoxSize = '0,1'
 	RenkoBoxSizeType = '0'
@@ -112,7 +112,7 @@
 	StartDateId = '42737'
 	StartDateName = ''
 	StrikePrice = ''
-	Symbol = 'CLH9'
+	Symbol = 'CLK0'
 	TPOBaseOnResolution = '0'
 	TPOBlockSize = '30'
 	TPOBlockSizeResolution = '2'
@@ -138,15 +138,15 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '56,940706287683'
-	Minimum = '54,2712403100775'
+	Maximum = '14,6294444444444'
+	Minimum = '-0,759444444444444'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
 	OverlayDataSeries = 'False'
 	PriceRange.Above = '1,79769313486232E+308'
 	PriceRange.Below = '1,79769313486232E+308'
-	ScaleType = '2'
+	ScaleType = '0'
 	UseMargins = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\LabelProcessingObject]
@@ -1436,13 +1436,7 @@
 	VolumeDataRangeType = '3'
 	VolumePlotNumber = '1'
 
-[Wsp\Window_0\ChartManager\Chart_1]
-	LSeriesNum = '0'
-	PencentHeight = '0,166666666666667'
-	RSeriesNum = '0'
-	SeriesCount = '1'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1]
 	CalcRealTimeAsHistory = '1'
 	DrawingsCount = '0'
 	InvisibleSubChart = '0'
@@ -1450,44 +1444,44 @@
 	Status = '1'
 	UpdateOnEveryTick = '1'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\AlertObject]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\AlertObject]
 	AlertEnable = '0'
 	AlertType = '1'
 	PropertyCount = '8'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\AlertObject\Property_0]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\AlertObject\Property_0]
 	PropertyName = '_Audio_Enable'
 	PropertyValue = '0'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\AlertObject\Property_1]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\AlertObject\Property_1]
 	PropertyName = '_Audio_Sound'
 	PropertyValue = '1'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\AlertObject\Property_2]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\AlertObject\Property_2]
 	PropertyName = '_Audio_Sound_File'
 	PropertyValue = 'ding.wav'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\AlertObject\Property_3]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\AlertObject\Property_3]
 	PropertyName = '_Audio_Sound_Repeat'
 	PropertyValue = '0'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\AlertObject\Property_4]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\AlertObject\Property_4]
 	PropertyName = '_Visual_Enable'
 	PropertyValue = '0'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\AlertObject\Property_5]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\AlertObject\Property_5]
 	PropertyName = '_Visual_Timeout'
 	PropertyValue = '5'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\AlertObject\Property_6]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\AlertObject\Property_6]
 	PropertyName = '_Email_Enable'
 	PropertyValue = '1'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\AlertObject\Property_7]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\AlertObject\Property_7]
 	PropertyName = '_Email_Subject'
 	PropertyValue = 'MultiCharts64 Alert'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\IndicatorHelper]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper]
 	BaseDataNumber = '0'
 	CalcRealTimeAsHistory = '1'
 	GordonLamCalc = '0'
@@ -1500,25 +1494,52 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\IndicatorHelper\InputHelper\Input_ColorNormLength]
-	Value = '14'
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_Color1stDev]
+	Value = 'rgb(51,153,255)'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\IndicatorHelper\InputHelper\Input_DnColor]
-	Value = 'red'
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_Color2ndDev]
+	Value = 'rgb(153,51,255)'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\IndicatorHelper\InputHelper\Input_GridForegroundColor]
-	Value = 'black'
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_Color3rdDev]
+	Value = 'rgb(51,51,51)'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\IndicatorHelper\InputHelper\Input_Length]
-	Value = '12'
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_Color4thDev]
+	Value = 'rgb(139,119,101)'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\IndicatorHelper\InputHelper\Input_Price]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_ColorVWAP]
+	Value = 'rgb(0,255,255)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_PrevDevColor]
+	Value = 'rgb(24,116,205)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_PrevVWAPColor]
+	Value = 'rgb(24,116,205)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_Show1stDev]
+	Value = 'true'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_Show2ndDev]
+	Value = 'true'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_Show3rdDev]
+	Value = 'false'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_Show4thDev]
+	Value = 'false'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_ShowPrevVWAP]
+	Value = 'false'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_ShowPrevVWAPdev]
+	Value = 'false'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_ShowVWAP]
+	Value = 'true'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\InputHelper\Input_VWAPcalc]
 	Value = 'close'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\IndicatorHelper\InputHelper\Input_UpColor]
-	Value = 'yellow'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\IndicatorHelper\PlotHelper\Plot_1]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_1]
 	DefAlign = '2'
 	DefBKColor = '0'
 	DefColor = '255'
@@ -1530,296 +1551,7 @@
 	DefWidth = '0'
 	PlotType = '0'
 
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\IndicatorHelper\PlotHelper\Plot_2]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '32768'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '0'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\IntervalObject]
-	AxisType = '0'
-	Center = '0'
-	CustomNullsCount = '-1'
-	CustomNullsCountEnable = 'False'
-	Fixed Label Number = '10'
-	Fixed Step Size = '0,01'
-	Label Increment Mode = '1'
-	ManualMode = '0'
-	MarginBottom = '5'
-	MarginTop = '5'
-	Maximum = '1,35508916323731'
-	Minimum = '-0,67508916323731'
-	MovementSize.Long = '1'
-	MovementSize.Metric = 'False'
-	MovementSize.Price = '5'
-	PriceRange.Above = '1,79769313486232E+308'
-	PriceRange.Below = '1,79769313486232E+308'
-	ScaleType = '0'
-	UseMargins = '1'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\LabelProcessingObject]
-	AutoMode = '1'
-	EnableProcessing = '0'
-	PriceScaleType = '2'
-	SelectedId = '0'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\LabelProcessingObject\Item 0]
-	Suffix = 'x'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\LabelProcessingObject\Item 1]
-	Suffix = 'c'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\LabelProcessingObject\Item 2]
-	Suffix = 'k'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\LabelProcessingObject\Item 3]
-	Suffix = 'm'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\LabelProcessingObject\Item 4]
-	Suffix = 'b'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\ShortTechInfo]
-	IdName = 'i_Momentum'
-
-[Wsp\Window_0\ChartManager\Chart_1\Series_0\VolumeObject]
-	VolumeBarWidth = '1'
-	VolumeBarsBackCount = '100'
-	VolumeBarsType = '0'
-	VolumeDataRangeType = '3'
-	VolumePlotNumber = '0'
-
-[Wsp\Window_0\ChartManager\Chart_2]
-	LSeriesNum = '0'
-	PencentHeight = '0,166666666666667'
-	RSeriesNum = '0'
-	SeriesCount = '1'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0]
-	CalcRealTimeAsHistory = '1'
-	DrawingsCount = '0'
-	InvisibleSubChart = '0'
-	SeriesType = '0'
-	Status = '1'
-	UpdateOnEveryTick = '1'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\AlertObject]
-	AlertEnable = '0'
-	AlertType = '1'
-	PropertyCount = '8'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\AlertObject\Property_0]
-	PropertyName = '_Audio_Enable'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\AlertObject\Property_1]
-	PropertyName = '_Audio_Sound'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\AlertObject\Property_2]
-	PropertyName = '_Audio_Sound_File'
-	PropertyValue = 'ding.wav'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\AlertObject\Property_3]
-	PropertyName = '_Audio_Sound_Repeat'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\AlertObject\Property_4]
-	PropertyName = '_Visual_Enable'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\AlertObject\Property_5]
-	PropertyName = '_Visual_Timeout'
-	PropertyValue = '5'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\AlertObject\Property_6]
-	PropertyName = '_Email_Enable'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\AlertObject\Property_7]
-	PropertyName = '_Email_Subject'
-	PropertyValue = 'MultiCharts64 Alert'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\IndicatorHelper]
-	BaseDataNumber = '0'
-	CalcRealTimeAsHistory = '1'
-	GordonLamCalc = '0'
-	PersistentContent = ''
-	SkipIdenticalTicks = '1'
-	UpdateEveryTick = '1'
-	UpdateOnEveryTick = '1'
-	UseAddSeriesFreshSnap = '0'
-	UseFreshSnapOnAdditionalDS = '0'
-	UserBarMode = '0'
-	UserBarRef = '50'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\IndicatorHelper\InputHelper\Input_Length]
-	Value = '12'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\IndicatorHelper\PlotHelper\Plot_1]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '255'
-	DefColor2 = '255'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '0'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\IntervalObject]
-	AxisType = '0'
-	Center = '0'
-	CustomNullsCount = '-1'
-	CustomNullsCountEnable = 'False'
-	Fixed Label Number = '10'
-	Fixed Step Size = '0,01'
-	Label Increment Mode = '1'
-	ManualMode = '0'
-	MarginBottom = '5'
-	MarginTop = '5'
-	Maximum = '0,343123299109585'
-	Minimum = '0,158598032499533'
-	MovementSize.Long = '1'
-	MovementSize.Metric = 'False'
-	MovementSize.Price = '5'
-	PriceRange.Above = '1,79769313486232E+308'
-	PriceRange.Below = '1,79769313486232E+308'
-	ScaleType = '0'
-	UseMargins = '1'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\LabelProcessingObject]
-	AutoMode = '1'
-	EnableProcessing = '0'
-	PriceScaleType = '4'
-	SelectedId = '0'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\LabelProcessingObject\Item 0]
-	Suffix = 'x'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\LabelProcessingObject\Item 1]
-	Suffix = 'c'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\LabelProcessingObject\Item 2]
-	Suffix = 'k'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\LabelProcessingObject\Item 3]
-	Suffix = 'm'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\LabelProcessingObject\Item 4]
-	Suffix = 'b'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\ShortTechInfo]
-	IdName = 'i_Volatility'
-
-[Wsp\Window_0\ChartManager\Chart_2\Series_0\VolumeObject]
-	VolumeBarWidth = '1'
-	VolumeBarsBackCount = '100'
-	VolumeBarsType = '0'
-	VolumeDataRangeType = '3'
-	VolumePlotNumber = '0'
-
-[Wsp\Window_0\ChartManager\Chart_3]
-	LSeriesNum = '0'
-	PencentHeight = '0,166666666666667'
-	RSeriesNum = '0'
-	SeriesCount = '1'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0]
-	CalcRealTimeAsHistory = '1'
-	DrawingsCount = '0'
-	InvisibleSubChart = '0'
-	SeriesType = '0'
-	Status = '1'
-	UpdateOnEveryTick = '1'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\AlertObject]
-	AlertEnable = '0'
-	AlertType = '1'
-	PropertyCount = '8'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\AlertObject\Property_0]
-	PropertyName = '_Audio_Enable'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\AlertObject\Property_1]
-	PropertyName = '_Audio_Sound'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\AlertObject\Property_2]
-	PropertyName = '_Audio_Sound_File'
-	PropertyValue = 'ding.wav'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\AlertObject\Property_3]
-	PropertyName = '_Audio_Sound_Repeat'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\AlertObject\Property_4]
-	PropertyName = '_Visual_Enable'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\AlertObject\Property_5]
-	PropertyName = '_Visual_Timeout'
-	PropertyValue = '5'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\AlertObject\Property_6]
-	PropertyName = '_Email_Enable'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\AlertObject\Property_7]
-	PropertyName = '_Email_Subject'
-	PropertyValue = 'MultiCharts64 Alert'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\IndicatorHelper]
-	BaseDataNumber = '0'
-	CalcRealTimeAsHistory = '1'
-	GordonLamCalc = '0'
-	PersistentContent = ''
-	SkipIdenticalTicks = '1'
-	UpdateEveryTick = '1'
-	UpdateOnEveryTick = '1'
-	UseAddSeriesFreshSnap = '0'
-	UseFreshSnapOnAdditionalDS = '0'
-	UserBarMode = '0'
-	UserBarRef = '50'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\IndicatorHelper\InputHelper\Input_ADXTrend]
-	Value = '25'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\IndicatorHelper\InputHelper\Input_Length]
-	Value = '14'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\IndicatorHelper\PlotHelper\Plot_1]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '16776960'
-	DefColor2 = '16776960'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '0'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\IndicatorHelper\PlotHelper\Plot_2]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '255'
-	DefColor2 = '255'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '0'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\IndicatorHelper\PlotHelper\Plot_3]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_10]
 	DefAlign = '2'
 	DefBKColor = '0'
 	DefColor = '65535'
@@ -1831,8 +1563,128 @@
 	DefWidth = '0'
 	PlotType = '0'
 
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\IntervalObject]
-	AxisType = '0'
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_11]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '16711935'
+	DefColor2 = '16711935'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_12]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '65280'
+	DefColor2 = '65280'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_13]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '255'
+	DefColor2 = '255'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_3]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '16776960'
+	DefColor2 = '16776960'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_4]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '65535'
+	DefColor2 = '65535'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_5]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '16711935'
+	DefColor2 = '16711935'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_6]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '65280'
+	DefColor2 = '65280'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_7]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '255'
+	DefColor2 = '255'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_8]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '16711680'
+	DefColor2 = '16711680'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IndicatorHelper\PlotHelper\Plot_9]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '16776960'
+	DefColor2 = '16776960'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\IntervalObject]
+	AxisType = '1'
 	Center = '0'
 	CustomNullsCount = '-1'
 	CustomNullsCountEnable = 'False'
@@ -1842,8 +1694,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '50,2023063905817'
-	Minimum = '5,00356776901636'
+	Maximum = '18,9353954792478'
+	Minimum = '0,623207551018129'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -1852,31 +1704,31 @@
 	ScaleType = '0'
 	UseMargins = '1'
 
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\LabelProcessingObject]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\LabelProcessingObject]
 	AutoMode = '1'
 	EnableProcessing = '0'
 	PriceScaleType = '2'
 	SelectedId = '0'
 
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\LabelProcessingObject\Item 0]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\LabelProcessingObject\Item 0]
 	Suffix = 'x'
 
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\LabelProcessingObject\Item 1]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\LabelProcessingObject\Item 1]
 	Suffix = 'c'
 
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\LabelProcessingObject\Item 2]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\LabelProcessingObject\Item 2]
 	Suffix = 'k'
 
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\LabelProcessingObject\Item 3]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\LabelProcessingObject\Item 3]
 	Suffix = 'm'
 
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\LabelProcessingObject\Item 4]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\LabelProcessingObject\Item 4]
 	Suffix = 'b'
 
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\ShortTechInfo]
-	IdName = 'i_DMI'
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\ShortTechInfo]
+	IdName = 'i_vwap'
 
-[Wsp\Window_0\ChartManager\Chart_3\Series_0\VolumeObject]
+[Wsp\Window_0\ChartManager\Chart_0\Series_1\VolumeObject]
 	VolumeBarWidth = '1'
 	VolumeBarsBackCount = '100'
 	VolumeBarsType = '0'
@@ -1909,7 +1761,7 @@
 [Wsp\Window_0\ChartManager\IndexViewCalc]
 	BarSpacing = '25,8245614035088'
 	BarsToRight = '31,1999016474059'
-	BarsToRightValue = '17'
+	BarsToRightValue = '10'
 	ChartShiftViewType = '0'
 	ShowEmptyPeriod = '0'
 
@@ -3328,7 +3180,7 @@
 	NeedActivateAT = 'False'
 	Profile = 'Interactive Brokers (LIVE)'
 	StrategyName = 'Momentum (CL) Entry; ATR Trailing LX; ATR Trailing SX'
-	SymbolName = 'CLH9 - 1 Hour - Interactive Brokers'
+	SymbolName = 'CLK0 - 1 Hour - Interactive Brokers'
 
 [Wsp\Window_0\ChartManager\Strategy\StrategyHelper\OptimizerProperties\Algorithm_0]
 	CFFScriptGenetic = '// TODO: Enter your formula to replace the samples below 
@@ -3636,10 +3488,10 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second]
 	Account = ''
 	QTY = '1'
-	TIF = '-1'
+	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
-	Ticks = '636969643896970000'
+	Ticks = '637235719400670000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1]
 	First = 'U9127566'
@@ -3647,7 +3499,7 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1\Second]
 	Account = 'U9127566'
 	QTY = '1'
-	TIF = '-1'
+	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1\Second\TIFDate]
 	Ticks = '599266080000000000'
@@ -3661,7 +3513,7 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_2\Second\TIFDate]
-	Ticks = '636969643896970000'
+	Ticks = '637235719400670000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window\AtmAutoApplyCtx\PropertyState]
 	Count = '0'

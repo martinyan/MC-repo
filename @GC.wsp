@@ -10,10 +10,10 @@
 	WindowCount = '0'
 
 [Wsp\Window_0]
-	ContainerHeight = '162'
-	ContainerWidth = '1095'
+	ContainerHeight = '509'
+	ContainerWidth = '1098'
 	Flags = '2'
-	Height = '566'
+	Height = '581'
 	Left = '0'
 	MinX = '-1'
 	MinY = '-1'
@@ -74,9 +74,9 @@
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '43646'
+	FinishDate2Id = '43948'
 	FinishDate2Name = ''
-	FinishDateId = '43646'
+	FinishDateId = '43948'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '1'
@@ -138,8 +138,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '1452,02777777778'
-	Minimum = '1269,47222222222'
+	Maximum = '1769,64444444444'
+	Minimum = '1660,75555555556'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -1553,8 +1553,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '83,6776964656512'
-	Minimum = '3,37871139312658'
+	Maximum = '47,3636468700156'
+	Minimum = '5,95644712485606'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -2331,10 +2331,10 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second]
 	Account = ''
 	QTY = '1'
-	TIF = '-1'
+	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
-	Ticks = '636969644079980000'
+	Ticks = '637235719559960000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1]
 	First = 'U9127566'
@@ -2342,7 +2342,7 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1\Second]
 	Account = 'U9127566'
 	QTY = '1'
-	TIF = '-1'
+	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1\Second\TIFDate]
 	Ticks = '599266080000000000'
@@ -2356,7 +2356,7 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_2\Second\TIFDate]
-	Ticks = '636969644079980000'
+	Ticks = '637235719559960000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window\AtmAutoApplyCtx\PropertyState]
 	Count = '0'

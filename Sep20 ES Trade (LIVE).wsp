@@ -10,17 +10,17 @@
 	WindowCount = '0'
 
 [Wsp\Window_0]
-	ContainerHeight = '484'
-	ContainerWidth = '1094'
+	ContainerHeight = '619'
+	ContainerWidth = '1574'
 	Flags = '0'
-	Height = '484'
+	Height = '619'
 	Left = '0'
 	MinX = '-1'
 	MinY = '-1'
 	State = '1'
 	Top = '0'
 	ViewType = '0'
-	Width = '547'
+	Width = '787'
 
 [Wsp\Window_0\ChartManager]
 	ChartCount = '1'
@@ -74,9 +74,9 @@
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '44017'
+	FinishDate2Id = '44040'
 	FinishDate2Name = ''
-	FinishDateId = '44017'
+	FinishDateId = '44040'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '2,5'
@@ -1775,7 +1775,7 @@
 [Wsp\Window_0\ChartManager\IndexViewCalc]
 	BarSpacing = '16'
 	BarsToRight = '20'
-	BarsToRightValue = '3'
+	BarsToRightValue = '6'
 	ChartShiftViewType = '0'
 	ShowEmptyPeriod = '0'
 
@@ -2486,7 +2486,7 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second]
 	Account = 'U9127566'
 	QTY = '1'
-	TIF = '-1'
+	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
 	Ticks = '599266080000000000'
@@ -2502,17 +2502,17 @@ The reserved words supported in Portfolio optimization:
 	VolumeRightScaleWidth = '50'
 
 [Wsp\Window_1]
-	ContainerHeight = '484'
-	ContainerWidth = '1094'
+	ContainerHeight = '619'
+	ContainerWidth = '1574'
 	Flags = '0'
-	Height = '484'
-	Left = '547'
+	Height = '619'
+	Left = '787'
 	MinX = '-1'
 	MinY = '-1'
 	State = '1'
 	Top = '0'
 	ViewType = '0'
-	Width = '547'
+	Width = '787'
 
 [Wsp\Window_1\ChartManager]
 	ChartCount = '1'
@@ -2566,9 +2566,9 @@ The reserved words supported in Portfolio optimization:
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '44017'
+	FinishDate2Id = '44040'
 	FinishDate2Name = ''
-	FinishDateId = '44017'
+	FinishDateId = '44040'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '2,5'
@@ -2630,8 +2630,8 @@ The reserved words supported in Portfolio optimization:
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '3166,11111111111'
-	Minimum = '2973,88888888889'
+	Maximum = '3293,69444444444'
+	Minimum = '3106,99035490662'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -4054,8 +4054,8 @@ The reserved words supported in Portfolio optimization:
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '3166,11111111111'
-	Minimum = '2973,88888888889'
+	Maximum = '3293,69444444444'
+	Minimum = '3106,99035490662'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -4121,7 +4121,7 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_1\ChartManager\IndexViewCalc]
 	BarSpacing = '5'
 	BarsToRight = '20'
-	BarsToRightValue = '10'
+	BarsToRightValue = '19'
 	ChartShiftViewType = '0'
 	ShowEmptyPeriod = '0'
 
@@ -4832,7 +4832,7 @@ The reserved words supported in Portfolio optimization:
 [Wsp\Window_1\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second]
 	Account = 'U9127566'
 	QTY = '1'
-	TIF = '-1'
+	TIF = '1'
 
 [Wsp\Window_1\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
 	Ticks = '599266080000000000'
